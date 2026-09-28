@@ -1,0 +1,67 @@
+[
+  {
+    "file": "software/training/README.md",
+    "before": "../../NOTICE.md",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/NOTICE.md"
+  },
+  {
+    "file": "software/training/UPSTREAM.md",
+    "before": "../../NOTICE.md#许可证名称说明",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/NOTICE.md#许可证名称说明"
+  },
+  {
+    "file": "tools/servo-web/README.md",
+    "before": "../../software/飞特适配架构.md",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/software/%E9%A3%9E%E7%89%B9%E9%80%82%E9%85%8D%E6%9E%B6%E6%9E%84.md"
+  },
+  {
+    "file": "tools/servo-web/README.md",
+    "before": "../../assets/servo-web.png",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/assets/servo-web.png"
+  },
+  {
+    "file": "tools/servo-web/README.md",
+    "before": "../fold_contact/",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/tools/fold_contact"
+  },
+  {
+    "file": "tools/servo-web/README.md",
+    "before": "../../docs/飞特资料/",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/docs/%E9%A3%9E%E7%89%B9%E8%B5%84%E6%96%99"
+  },
+  {
+    "file": "tools/servo-web/README.md",
+    "before": "../fold_contact/",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/tools/fold_contact"
+  },
+  {
+    "file": "tools/servo-web/README.md",
+    "before": "../../踩坑记录.md#工具",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95.md#工具"
+  },
+  {
+    "file": "hardware/imu_to_dxl/firmware/README.md",
+    "before": "../总线协议.md",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/hardware/imu_to_dxl/%E6%80%BB%E7%BA%BF%E5%8D%8F%E8%AE%AE.md"
+  },
+  {
+    "file": "hardware/imu_to_dxl/firmware/README.md",
+    "before": "../imu_to_dxl-原理图.pdf",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/hardware/imu_to_dxl/imu_to_dxl-%E5%8E%9F%E7%90%86%E5%9B%BE.pdf"
+  },
+  {
+    "file": "hardware/imu_to_dxl/firmware/README.md",
+    "before": "../总线协议.md#8-其它指令怎么应答",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/hardware/imu_to_dxl/%E6%80%BB%E7%BA%BF%E5%8D%8F%E8%AE%AE.md#8-其它指令怎么应答"
+  },
+  {
+    "file": "hardware/imu_to_dxl/firmware/README.md",
+    "before": "../../../docs/飞特资料/",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/docs/%E9%A3%9E%E7%89%B9%E8%B5%84%E6%96%99"
+  },
+  {
+    "file": "hardware/imu_to_dxl/firmware/README.md",
+    "before": "../总线协议.md",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/hardware/imu_to_dxl/%E6%80%BB%E7%BA%BF%E5%8D%8F%E8%AE%AE.md"
+  }
+]

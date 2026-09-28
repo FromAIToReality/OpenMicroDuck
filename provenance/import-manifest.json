@@ -1,0 +1,2263 @@
+[
+  {
+    "path": "software/training/.gitignore",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ff9e1ab101c9dcec2cf5dee50ca995a5d9f0660aa1ccfdea8e5da059ee5cfb05",
+    "published_sha256": "ff9e1ab101c9dcec2cf5dee50ca995a5d9f0660aa1ccfdea8e5da059ee5cfb05"
+  },
+  {
+    "path": "software/training/AGENTS.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "aceb94476f03918fd71f928b9bd3a9bcfba0688b407e4bd85fbc008449a3a705",
+    "published_sha256": "aceb94476f03918fd71f928b9bd3a9bcfba0688b407e4bd85fbc008449a3a705"
+  },
+  {
+    "path": "software/training/CLAUDE.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+    "published_sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49"
+  },
+  {
+    "path": "software/training/LICENSE",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2d3fd9ffffa70a4307498ec630b14a6b4731e010f8ddda92686eaf65733c2dfe",
+    "published_sha256": "2d3fd9ffffa70a4307498ec630b14a6b4731e010f8ddda92686eaf65733c2dfe"
+  },
+  {
+    "path": "software/training/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1faae2b2ad46105e30ba17a1bc52ce83c14d487899a773424083c7761799fbc1",
+    "published_sha256": "4af07557cf23e8f57fbb0bd0d748541851e180dade550f60a8a874fe83e57615"
+  },
+  {
+    "path": "software/training/README.upstream.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "aedd0012a8b3feb53af4be31c03cd2dc9306512f8b5144dd5089faf0cd661372",
+    "published_sha256": "aedd0012a8b3feb53af4be31c03cd2dc9306512f8b5144dd5089faf0cd661372"
+  },
+  {
+    "path": "software/training/UPSTREAM.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "eb31b30391d8b6b9fdcfad5a7e1c3da2480d606725f92285e8ba55cbb3928a4c",
+    "published_sha256": "59c339a07d8d3541c0a350df9debcb88d5e8ab98a413b03d8f63f1356d5f9fdf"
+  },
+  {
+    "path": "software/training/docs/hd1910-baseline.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b93a26121bacbcc837987e99e49762773f5e78f6d26ce5265275930401787c44",
+    "published_sha256": "b93a26121bacbcc837987e99e49762773f5e78f6d26ce5265275930401787c44"
+  },
+  {
+    "path": "software/training/docs/roller_standup_policy_summary.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "32d53f83de1a21c5e13ed9baa0b9b7ca6eefc7e763aea6a3dd19dc4a165e8486",
+    "published_sha256": "32d53f83de1a21c5e13ed9baa0b9b7ca6eefc7e763aea6a3dd19dc4a165e8486"
+  },
+  {
+    "path": "software/training/docs/superpowers/plans/2026-07-17-roller-crouch-glide.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d9c10ba0e836a2f4760c118fe7c8094a4bc0ce7b9301da3e37cdc59239033e67",
+    "published_sha256": "d9c10ba0e836a2f4760c118fe7c8094a4bc0ce7b9301da3e37cdc59239033e67"
+  },
+  {
+    "path": "software/training/docs/superpowers/plans/2026-07-22-roller-slope.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "cb2ebc86629d02ea7acb59b8459dfec159da7b54a6e446012feea09afbde4347",
+    "published_sha256": "cb2ebc86629d02ea7acb59b8459dfec159da7b54a6e446012feea09afbde4347"
+  },
+  {
+    "path": "software/training/docs/superpowers/plans/2026-07-24-ground-pick-pose-following.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1d2af76b0dd69f8d75968fb0045e052a224c795c650f946609edaa9669edd39b",
+    "published_sha256": "1d2af76b0dd69f8d75968fb0045e052a224c795c650f946609edaa9669edd39b"
+  },
+  {
+    "path": "software/training/docs/superpowers/plans/2026-07-24-shoot-pose-following.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "84b650a5172559cec7f09b28091d36907b91e02e7b347f6a5ce23f92a1d8da28",
+    "published_sha256": "84b650a5172559cec7f09b28091d36907b91e02e7b347f6a5ce23f92a1d8da28"
+  },
+  {
+    "path": "software/training/docs/superpowers/plans/2026-07-27-swizzle-head-control.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "abd2bfbaf01538969bf0d8dcca1afa51e37193807df7425625e847e557914c66",
+    "published_sha256": "abd2bfbaf01538969bf0d8dcca1afa51e37193807df7425625e847e557914c66"
+  },
+  {
+    "path": "software/training/docs/superpowers/plans/2026-08-04-roller-standup.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "cd7ad30f918bf9c83c328be544dfd19b38bd81e4ef883757148d45daae6cebf0",
+    "published_sha256": "cd7ad30f918bf9c83c328be544dfd19b38bd81e4ef883757148d45daae6cebf0"
+  },
+  {
+    "path": "software/training/docs/superpowers/plans/2026-08-04-spin-env.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2f2fb22f79cd7390a917a32cc5f026b5debdf0a17ba57abe0fd41b5b73bbe8d7",
+    "published_sha256": "2f2fb22f79cd7390a917a32cc5f026b5debdf0a17ba57abe0fd41b5b73bbe8d7"
+  },
+  {
+    "path": "software/training/docs/superpowers/plans/2026-09-24-hd1910-m6.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1e673373cdab09820a8255b89b068b275f374fe736a713010df996b23ccf32a3",
+    "published_sha256": "1e673373cdab09820a8255b89b068b275f374fe736a713010df996b23ccf32a3"
+  },
+  {
+    "path": "software/training/docs/superpowers/specs/2026-07-17-roller-crouch-glide-design.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e76a24f508f75c61f7b6e501a718bb7b2d48fb7f25e873f23a58b8b3f204556d",
+    "published_sha256": "e76a24f508f75c61f7b6e501a718bb7b2d48fb7f25e873f23a58b8b3f204556d"
+  },
+  {
+    "path": "software/training/docs/superpowers/specs/2026-07-22-roller-slope-design.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "af0a560fa0537bbdd62c490abe9241768f2d9e134473be65aaba053352855c28",
+    "published_sha256": "af0a560fa0537bbdd62c490abe9241768f2d9e134473be65aaba053352855c28"
+  },
+  {
+    "path": "software/training/docs/superpowers/specs/2026-07-23-swizzle-env-design.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0bd417c0c0e2873a3d7fceed0eb729b66628b7953dfe2b2a63c460aeee4f02d6",
+    "published_sha256": "0bd417c0c0e2873a3d7fceed0eb729b66628b7953dfe2b2a63c460aeee4f02d6"
+  },
+  {
+    "path": "software/training/docs/superpowers/specs/2026-07-24-ground-pick-pose-following-design.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "53c3f77f1958b3594a6fce66f711c38db9380ed123bcb039ba2ad649cf36a869",
+    "published_sha256": "53c3f77f1958b3594a6fce66f711c38db9380ed123bcb039ba2ad649cf36a869"
+  },
+  {
+    "path": "software/training/docs/superpowers/specs/2026-07-24-shoot-pose-following-design.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "eed901730b9ac3e77fec05e9b37a908165a89d545d17199565ae31d956357d0d",
+    "published_sha256": "eed901730b9ac3e77fec05e9b37a908165a89d545d17199565ae31d956357d0d"
+  },
+  {
+    "path": "software/training/docs/superpowers/specs/2026-07-27-swizzle-head-control-design.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0c6015d5542f01ea00cc8d65a503a898e47c2a92c16c5184b5a144c94dc6c148",
+    "published_sha256": "0c6015d5542f01ea00cc8d65a503a898e47c2a92c16c5184b5a144c94dc6c148"
+  },
+  {
+    "path": "software/training/docs/superpowers/specs/2026-08-04-roller-standup-design.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b902d9aee3a86fb9f29fcf08db2a1a13dcc25373fe2e27b1d43d12d0b15c87a8",
+    "published_sha256": "b902d9aee3a86fb9f29fcf08db2a1a13dcc25373fe2e27b1d43d12d0b15c87a8"
+  },
+  {
+    "path": "software/training/docs/superpowers/specs/2026-08-04-spin-env-design.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1465e5fa43b5e45a0e6f30ed4a9a2e2a175a0d039a4e8bc7addad59e9eded645",
+    "published_sha256": "1465e5fa43b5e45a0e6f30ed4a9a2e2a175a0d039a4e8bc7addad59e9eded645"
+  },
+  {
+    "path": "software/training/docs/superpowers/specs/2026-09-24-hd1910-m6-design.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "86f6b0f90bf46f698e85dbd5116de5c3fab6ecdc06efd0f7b88d2ea88fbfb3ef",
+    "published_sha256": "86f6b0f90bf46f698e85dbd5116de5c3fab6ecdc06efd0f7b88d2ea88fbfb3ef"
+  },
+  {
+    "path": "software/training/pyproject.toml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "45f3476af2b5bba1c3199aadb8372ec1bb08496ca91b08dec78543addd5c8440",
+    "published_sha256": "45f3476af2b5bba1c3199aadb8372ec1bb08496ca91b08dec78543addd5c8440"
+  },
+  {
+    "path": "software/training/scripts/crouch_pose_editor.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0268aacd7bdc0d3ecca8cbd40b70e2f65d25ed52d83b8b50327e306a478cac41",
+    "published_sha256": "0268aacd7bdc0d3ecca8cbd40b70e2f65d25ed52d83b8b50327e306a478cac41"
+  },
+  {
+    "path": "software/training/scripts/export.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3ea14f48901156ec4a8dd5f8ed7d59041a1ba31b22beb5183d5258fc854e0bc5",
+    "published_sha256": "3ea14f48901156ec4a8dd5f8ed7d59041a1ba31b22beb5183d5258fc854e0bc5"
+  },
+  {
+    "path": "software/training/scripts/hf/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "10fffdc425e2cb8602ee17389187d69f508faf101342d7575f108979d9d78cc0",
+    "published_sha256": "10fffdc425e2cb8602ee17389187d69f508faf101342d7575f108979d9d78cc0"
+  },
+  {
+    "path": "software/training/scripts/hf/train_hf.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0db74a6edd3cc157a5596ac6f019496e8fdde936d9edcc3f260052297d7f1ae9",
+    "published_sha256": "0db74a6edd3cc157a5596ac6f019496e8fdde936d9edcc3f260052297d7f1ae9"
+  },
+  {
+    "path": "software/training/scripts/hf/uploader.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0b9610e26cfc02082b361d2198768d260846cd8354a2824251e31718935512a1",
+    "published_sha256": "0b9610e26cfc02082b361d2198768d260846cd8354a2824251e31718935512a1"
+  },
+  {
+    "path": "software/training/scripts/infer_policy.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "69db723bb2fc237824190ba4039e31c2ac9cabf347b2b493d66d0c9df5c3ddc2",
+    "published_sha256": "69db723bb2fc237824190ba4039e31c2ac9cabf347b2b493d66d0c9df5c3ddc2"
+  },
+  {
+    "path": "software/training/scripts/play_latest.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1e898b201992a111dbc220832f63d32dc9fcc79f0f5658a0075d854fd4c99adc",
+    "published_sha256": "1e898b201992a111dbc220832f63d32dc9fcc79f0f5658a0075d854fd4c99adc"
+  },
+  {
+    "path": "software/training/scripts/plot_observations_comparison_plotly.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f5e9af3bdc1e81822980e81475c307a8925797ac87fdd100b0a5fe0898ce54d5",
+    "published_sha256": "f5e9af3bdc1e81822980e81475c307a8925797ac87fdd100b0a5fe0898ce54d5"
+  },
+  {
+    "path": "software/training/scripts/testbench_sim2real.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ebdb1007bb56cb2ab7c700d205d7815bad1afab0853508e38916e25244fd347f",
+    "published_sha256": "ebdb1007bb56cb2ab7c700d205d7815bad1afab0853508e38916e25244fd347f"
+  },
+  {
+    "path": "software/training/scripts/validate_bam_testbench.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3be5028f89f65ad960fd19e1a56fc20875a43c7b1f9cc75d5cc3ef56ae91efbe",
+    "published_sha256": "3be5028f89f65ad960fd19e1a56fc20875a43c7b1f9cc75d5cc3ef56ae91efbe"
+  },
+  {
+    "path": "software/training/scripts/view_slope_terrain.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "252467c923df9641edfa064b028acd48024cc57a67b2cbb3db3dfdb31870aaa5",
+    "published_sha256": "252467c923df9641edfa064b028acd48024cc57a67b2cbb3db3dfdb31870aaa5"
+  },
+  {
+    "path": "software/training/scripts/wandb_utils.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a4682def0e329c16f287dc881ab629e1b7918ff0d18de4c38c366ff2e3839250",
+    "published_sha256": "a4682def0e329c16f287dc881ab629e1b7918ff0d18de4c38c366ff2e3839250"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/__init__.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/actuator/__init__.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "181bfbec32115818720695915322f6e2c860fe87767570662a029f8e2d01f12d",
+    "published_sha256": "181bfbec32115818720695915322f6e2c860fe87767570662a029f8e2d01f12d"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/actuator/feetech_bam.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e31d38e5b673b5b86b37fc48617861ebfca3125d9c85374a980dad89f0dbf7a9",
+    "published_sha256": "e31d38e5b673b5b86b37fc48617861ebfca3125d9c85374a980dad89f0dbf7a9"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/actuator/friction_dr_bam.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e9b349a4be9910ea2c452cacfa78ccfc7fadb9f60e2f5ab8b54eed835e09b2b4",
+    "published_sha256": "e9b349a4be9910ea2c452cacfa78ccfc7fadb9f60e2f5ab8b54eed835e09b2b4"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/hf_jobs.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "997f16f94b7040618ed1201abaaefcfe5632405d6ad430de22f892b4341a84a6",
+    "published_sha256": "997f16f94b7040618ed1201abaaefcfe5632405d6ad430de22f892b4341a84a6"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/__init__.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/hd1910/.gitattributes",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3bc5de8ac5316cddc8fa8fa8af676854effad97ec8bb9a65cddabbb25bed7236",
+    "published_sha256": "3bc5de8ac5316cddc8fa8fa8af676854effad97ec8bb9a65cddabbb25bed7236"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/hd1910/1910_m6.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ef2d51adfb1cc0831b9b02ca19aa9176fceecdf725148d084378d7d9a64afceb",
+    "published_sha256": "ef2d51adfb1cc0831b9b02ca19aa9176fceecdf725148d084378d7d9a64afceb"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/hd1910/LICENSE",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2d3fd9ffffa70a4307498ec630b14a6b4731e010f8ddda92686eaf65733c2dfe",
+    "published_sha256": "2d3fd9ffffa70a4307498ec630b14a6b4731e010f8ddda92686eaf65733c2dfe"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/hd1910/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1ad19308cb6b953f1a7ee4166dc4e90398433d4de91e7b623f16bd989035429b",
+    "published_sha256": "1ad19308cb6b953f1a7ee4166dc4e90398433d4de91e7b623f16bd989035429b"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/add_backlash.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c304dbf56e23c4e73009e67297e358bb758904372858e344eff7eff47cfd8293",
+    "published_sha256": "c304dbf56e23c4e73009e67297e358bb758904372858e344eff7eff47cfd8293"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/additional.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "958010af8e09a2ac7a79797d1aead327435e5201b3c4df0f2f7220f3c2c42941",
+    "published_sha256": "958010af8e09a2ac7a79797d1aead327435e5201b3c4df0f2f7220f3c2c42941"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/ankle_l_v1.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b53da1917f3f4cd06eb5f71d685ed38a941cd89533d7204a7a071bd359c22507",
+    "published_sha256": "b53da1917f3f4cd06eb5f71d685ed38a941cd89533d7204a7a071bd359c22507"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/ankle_l_v1.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "70ecf0629559e3edf8f194f286a5fa0bd0ef77b75429b5f24f8bae70c7aa7446",
+    "published_sha256": "70ecf0629559e3edf8f194f286a5fa0bd0ef77b75429b5f24f8bae70c7aa7446"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/ankle_left.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b4dc1cdcaec2ae69b3fbf0c540077fec7c1339d2b0a7db02de4a46638844e1e6",
+    "published_sha256": "b4dc1cdcaec2ae69b3fbf0c540077fec7c1339d2b0a7db02de4a46638844e1e6"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/ankle_left.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "98f14ba6e6cd138740aa822a615aaa0db34527d499c40b2379aacd13427a1379",
+    "published_sha256": "98f14ba6e6cd138740aa822a615aaa0db34527d499c40b2379aacd13427a1379"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/ankle_r_v1.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5e209d3e323121d1b104f39ca025b804e3a2a601b673a97e84695c00907947b7",
+    "published_sha256": "5e209d3e323121d1b104f39ca025b804e3a2a601b673a97e84695c00907947b7"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/ankle_r_v1.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e3f277879aa6eb24e118795f4d8d8525acab9192c202a569d1403408ec656754",
+    "published_sha256": "e3f277879aa6eb24e118795f4d8d8525acab9192c202a569d1403408ec656754"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/ankle_right.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "8cb81c3e44f27253e375d96b247fec743f4bedd417662e46defb8f857351ccfd",
+    "published_sha256": "8cb81c3e44f27253e375d96b247fec743f4bedd417662e46defb8f857351ccfd"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/ankle_right.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "836032fdeaa4b1f47f75cb24fa4ad9ebdb09acec158a0d787b3890c6dc4d4c6e",
+    "published_sha256": "836032fdeaa4b1f47f75cb24fa4ad9ebdb09acec158a0d787b3890c6dc4d4c6e"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/banana_pcb_locker.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "237808941d1088f6f3ad6eb0ede28b04ddde32bef5f3908e753373482762aae8",
+    "published_sha256": "237808941d1088f6f3ad6eb0ede28b04ddde32bef5f3908e753373482762aae8"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/banana_pcb_locker.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a176364f824248b5156b37f2fd5c6b8bdfb24cd08be7ed6b3faa10b4db14a9cb",
+    "published_sha256": "a176364f824248b5156b37f2fd5c6b8bdfb24cd08be7ed6b3faa10b4db14a9cb"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/bearing_roll.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a5ceca94037dc49a4b2531a1bafb45295631a459f2b8714affb95ff9b14b626a",
+    "published_sha256": "a5ceca94037dc49a4b2531a1bafb45295631a459f2b8714affb95ff9b14b626a"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/bearing_roll.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2b30cbdb110c5cca7092a9b2658c9e899e294bf2df71635828858e1d1a20abfe",
+    "published_sha256": "2b30cbdb110c5cca7092a9b2658c9e899e294bf2df71635828858e1d1a20abfe"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/bottom_head_shell.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0b978903486cbaf1dc391187432bdd2d95d4befb3bc86efb49e6749c4ecee916",
+    "published_sha256": "0b978903486cbaf1dc391187432bdd2d95d4befb3bc86efb49e6749c4ecee916"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/bottom_head_shell.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3ce9532854a712c93e00e0fd2bbc2ce6b1c45f9418fd29d6e82f6ad8af8fc1af",
+    "published_sha256": "3ce9532854a712c93e00e0fd2bbc2ce6b1c45f9418fd29d6e82f6ad8af8fc1af"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/elec_rpi_robot_hat_pcb.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a18ef5bd2de122a8f287a6daa7ddef8e109fa8a9bcd66dc7874c35820d423967",
+    "published_sha256": "a18ef5bd2de122a8f287a6daa7ddef8e109fa8a9bcd66dc7874c35820d423967"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/elec_rpi_robot_hat_pcb.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "45b904bcb378161d274d313cd067d3967305db0bf22c0955530145e18cdd2cd8",
+    "published_sha256": "45b904bcb378161d274d313cd067d3967305db0bf22c0955530145e18cdd2cd8"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/face_part.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d31844079ddd160095c1f5dbc2d926925ffdc05fd977f0914b4c7847832b2c94",
+    "published_sha256": "d31844079ddd160095c1f5dbc2d926925ffdc05fd977f0914b4c7847832b2c94"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/face_part.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "30eaa56fc38129ba16e2b4e247ac419b0ae9e5b0fe9e748697f4838d338b952e",
+    "published_sha256": "30eaa56fc38129ba16e2b4e247ac419b0ae9e5b0fe9e748697f4838d338b952e"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/foot_left.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f108a74d19a267d901d3dbce9a040a8a13f77fcf3a32de503ee9dc76e0cfc0fe",
+    "published_sha256": "f108a74d19a267d901d3dbce9a040a8a13f77fcf3a32de503ee9dc76e0cfc0fe"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/foot_left.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5de2622a7b894e0fc9988dc6cff6579ee1dc818ffaddd0319f49cf5d5bd05587",
+    "published_sha256": "5de2622a7b894e0fc9988dc6cff6579ee1dc818ffaddd0319f49cf5d5bd05587"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/foot_right.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7ac0b161f409281fb0712b941eb066b70403e22ac1f2c76f23e663b0bed8def1",
+    "published_sha256": "7ac0b161f409281fb0712b941eb066b70403e22ac1f2c76f23e663b0bed8def1"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/foot_right.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "8ffa894b29578edc78f5e982a7d89a8f5e4fa1dc27232b88c22a8a0a74cfbaa7",
+    "published_sha256": "8ffa894b29578edc78f5e982a7d89a8f5e4fa1dc27232b88c22a8a0a74cfbaa7"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/hip_l.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "9d94fb2e8be79cb51534eabd937472eb98d444124ef0e41859c9fa3a5fe78a12",
+    "published_sha256": "9d94fb2e8be79cb51534eabd937472eb98d444124ef0e41859c9fa3a5fe78a12"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/hip_l.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "02bc777ce76a31b3d5c415188f8268b989f4eca57bc440a2900825ac459dec38",
+    "published_sha256": "02bc777ce76a31b3d5c415188f8268b989f4eca57bc440a2900825ac459dec38"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/jaw.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c9d0c3f118395e03325e1bb36aaf459437aef485f388ee28920113a89c578599",
+    "published_sha256": "c9d0c3f118395e03325e1bb36aaf459437aef485f388ee28920113a89c578599"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/jaw.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "65c300349113d3c6cd4a2cc587f76f7228115565a854492e42358ba8df71796a",
+    "published_sha256": "65c300349113d3c6cd4a2cc587f76f7228115565a854492e42358ba8df71796a"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/jaw_soft.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "faa573ca64c9a98c65bd6288db990a0fa4d87ec2c8b52322dece28cd8f901faf",
+    "published_sha256": "faa573ca64c9a98c65bd6288db990a0fa4d87ec2c8b52322dece28cd8f901faf"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/jaw_soft.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "61a426890f748713d45a9c0844149bcb0340d326f75295dcf7de2a4d768cbc85",
+    "published_sha256": "61a426890f748713d45a9c0844149bcb0340d326f75295dcf7de2a4d768cbc85"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/left_shell.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "aa4bafd4db8e67981618d243be1e3993d3b29f2df7d7a4d3266514fedb4844c4",
+    "published_sha256": "aa4bafd4db8e67981618d243be1e3993d3b29f2df7d7a4d3266514fedb4844c4"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/left_shell.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "efc16f55a4c32d21d74bf834faba27346788f154e29b40850cbcc69fda2f2396",
+    "published_sha256": "efc16f55a4c32d21d74bf834faba27346788f154e29b40850cbcc69fda2f2396"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/left_upper_leg.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3c78a8df597dcd02f1c55bf115356c4fa7d05e83846146196bc85b0cacfd045d",
+    "published_sha256": "3c78a8df597dcd02f1c55bf115356c4fa7d05e83846146196bc85b0cacfd045d"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/left_upper_leg.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b84e46d681cb971029e421c252de85e2f31e8858abee610dc26cd18037ef0224",
+    "published_sha256": "b84e46d681cb971029e421c252de85e2f31e8858abee610dc26cd18037ef0224"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/leg.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "81e89572f2756e43caa953fbd4f2c1b8c501f6ba90c860d23b8175784d956682",
+    "published_sha256": "81e89572f2756e43caa953fbd4f2c1b8c501f6ba90c860d23b8175784d956682"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/leg.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b57d55ec2504dfb90b07bfc781dbf9b4bb6560becaf1dddbadd6a3914fdc423f",
+    "published_sha256": "b57d55ec2504dfb90b07bfc781dbf9b4bb6560becaf1dddbadd6a3914fdc423f"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/lens.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "80c76fa330fbb16918885e346f7eaf2cde0f2afe2877d5bcb4936b960cb6c686",
+    "published_sha256": "80c76fa330fbb16918885e346f7eaf2cde0f2afe2877d5bcb4936b960cb6c686"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/lens.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1549b2dad784d1a4c505c1ca62bffce6ca4e9b22c9273b37d6cda1c8bf2ca127",
+    "published_sha256": "1549b2dad784d1a4c505c1ca62bffce6ca4e9b22c9273b37d6cda1c8bf2ca127"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/m12_lens_holder.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "23f95c75f609192a7c682b6a97b7cf9d35a558c9b2673225e45af9be80e17270",
+    "published_sha256": "23f95c75f609192a7c682b6a97b7cf9d35a558c9b2673225e45af9be80e17270"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/m12_lens_holder.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7a9989bbe776ddd7a268013e63cdf0efc2fdae245ad2754a6b18d6bfbe21c2ed",
+    "published_sha256": "7a9989bbe776ddd7a268013e63cdf0efc2fdae245ad2754a6b18d6bfbe21c2ed"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/motor_support.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4c3bde24035a852b5af4b116ff642ace7f78e0b3f3414f24e64bd0c4c24c21f1",
+    "published_sha256": "4c3bde24035a852b5af4b116ff642ace7f78e0b3f3414f24e64bd0c4c24c21f1"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/motor_support.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5a741ee0dc71b349b8d6def4bffb826c4b9304c47cf0f00ffd1a3140b9205220",
+    "published_sha256": "5a741ee0dc71b349b8d6def4bffb826c4b9304c47cf0f00ffd1a3140b9205220"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/neck.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e3f51571b03c59f8567feb32924ec22cacdb19a608949274ca160266849749bd",
+    "published_sha256": "e3f51571b03c59f8567feb32924ec22cacdb19a608949274ca160266849749bd"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/neck.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ee5d4cbc51f64c43cd9c15f82709be93b5bd3f080013726d1d39c329c85050b9",
+    "published_sha256": "ee5d4cbc51f64c43cd9c15f82709be93b5bd3f080013726d1d39c329c85050b9"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/neck_pitch.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2eacfc6f3cd00271117bf60e2c804d36199514fceefcbf779d5a69e3fa9d9fb0",
+    "published_sha256": "2eacfc6f3cd00271117bf60e2c804d36199514fceefcbf779d5a69e3fa9d9fb0"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/neck_pitch.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b9aed695e03da3819d244ecc66f1ad2d3c5c435f759403bb9e0f3b9ca2876453",
+    "published_sha256": "b9aed695e03da3819d244ecc66f1ad2d3c5c435f759403bb9e0f3b9ca2876453"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/noenoeil.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "94a1b3faadec6e553e1a02ad76b0876f03238a730b1492e0c0f3bfbd60c8d0c4",
+    "published_sha256": "94a1b3faadec6e553e1a02ad76b0876f03238a730b1492e0c0f3bfbd60c8d0c4"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/noenoeil.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f5492d8291da053bb4cb3f6680f90507648c4cfe1ef59f92b7d8f53e980d279b",
+    "published_sha256": "f5492d8291da053bb4cb3f6680f90507648c4cfe1ef59f92b7d8f53e980d279b"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/np_f970.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d1df78f4ee49c31709c4065907113fb78d362bf54131ce88fcb7f435bccff758",
+    "published_sha256": "d1df78f4ee49c31709c4065907113fb78d362bf54131ce88fcb7f435bccff758"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/np_f970.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "979ca81251d4ec5862b6c987b46095aa07d0534ca1ec15f3cf438bbf7189deda",
+    "published_sha256": "979ca81251d4ec5862b6c987b46095aa07d0534ca1ec15f3cf438bbf7189deda"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/pcb__raspberry_pi_zero_2_w.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "bf299c636ebc460238475c7976956e4934e4d713960625e1c8747c6b7ec90315",
+    "published_sha256": "bf299c636ebc460238475c7976956e4934e4d713960625e1c8747c6b7ec90315"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/pcb__raspberry_pi_zero_2_w.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0608b3cc7d15e479ae3a275c03096df44322ed06a8dbfc59fe790c46b3690753",
+    "published_sha256": "0608b3cc7d15e479ae3a275c03096df44322ed06a8dbfc59fe790c46b3690753"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/power_support.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "9a64299e5ac93dd4e26e4cf7a8d4cf6bc21f91277894b947d8b4dec15e5c4a54",
+    "published_sha256": "9a64299e5ac93dd4e26e4cf7a8d4cf6bc21f91277894b947d8b4dec15e5c4a54"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/power_support.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "cb43ba9351f51559f49ffc89679478288cfe6e9682b31898397406165b520cbe",
+    "published_sha256": "cb43ba9351f51559f49ffc89679478288cfe6e9682b31898397406165b520cbe"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/right_shell.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "870fe9cb00def1881fcc771111ab08baa41ba90fad82df24351deaed4babf9a4",
+    "published_sha256": "870fe9cb00def1881fcc771111ab08baa41ba90fad82df24351deaed4babf9a4"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/right_shell.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "484779f2bbe856f212d96a152550bb6834fd3c69603da315b6f70d1a3766d120",
+    "published_sha256": "484779f2bbe856f212d96a152550bb6834fd3c69603da315b6f70d1a3766d120"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/right_upper_leg.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "9881b241fcf6841627df32ac0c2defabb6f62c25a816397e102d6507845b2fee",
+    "published_sha256": "9881b241fcf6841627df32ac0c2defabb6f62c25a816397e102d6507845b2fee"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/right_upper_leg.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "208f4c94a94a9c6b978030ea194440a94a0508390cf5b0ce8efc5e560f559f21",
+    "published_sha256": "208f4c94a94a9c6b978030ea194440a94a0508390cf5b0ce8efc5e560f559f21"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/rim.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "96648c282219239d1c1bba14c3d81949618759983674c15449776cb40d41c177",
+    "published_sha256": "96648c282219239d1c1bba14c3d81949618759983674c15449776cb40d41c177"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/rim.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c2a84cd05ed8ce87bbdd64950bca415ba5945641385f5ec7cdbb161aa37281a4",
+    "published_sha256": "c2a84cd05ed8ce87bbdd64950bca415ba5945641385f5ec7cdbb161aa37281a4"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/roller_blade.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "add40a287e5f06d0fa704fc74795b7221940519653002aafa01e5e69accc9238",
+    "published_sha256": "add40a287e5f06d0fa704fc74795b7221940519653002aafa01e5e69accc9238"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/roller_blade.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7b13447a82624d952e958d83572ed0c6e610d595db1f7f60217b6c8f059fec15",
+    "published_sha256": "7b13447a82624d952e958d83572ed0c6e610d595db1f7f60217b6c8f059fec15"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/seeed_bearing__configuration__22x16x4.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "dd0251e775053e63aa6bea486ab9fcb411caba2267d6eb59a3bbf91e20d20d8d",
+    "published_sha256": "dd0251e775053e63aa6bea486ab9fcb411caba2267d6eb59a3bbf91e20d20d8d"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/seeed_bearing__configuration__22x16x4.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "154412afeab1875acfc8bbd437f193f02c86cdd6a556395db10bb7126c545c6e",
+    "published_sha256": "154412afeab1875acfc8bbd437f193f02c86cdd6a556395db10bb7126c545c6e"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/seeed_bearing__configuration_default.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4141ba7e90c4c9eaefc60ff7e0e6d0a93ceef6bad3a7c50fc76a343afc4a4074",
+    "published_sha256": "4141ba7e90c4c9eaefc60ff7e0e6d0a93ceef6bad3a7c50fc76a343afc4a4074"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/seeed_bearing__configuration_default.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4d0d4c174a167e5f783b52b212a14a5bbd8a3180988c744c299c330a6b3de448",
+    "published_sha256": "4d0d4c174a167e5f783b52b212a14a5bbd8a3180988c744c299c330a6b3de448"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/soft_mouth_top.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4bfa1f8ace9b9000ff76f2fd34e9cef278e6635b871c3291cb45e2e02e5fac4a",
+    "published_sha256": "4bfa1f8ace9b9000ff76f2fd34e9cef278e6635b871c3291cb45e2e02e5fac4a"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/soft_mouth_top.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "16f662c82bd3e24f0e64ee22b6b549b9a2a76f6de7b7477b9f89f5861f3e91a1",
+    "published_sha256": "16f662c82bd3e24f0e64ee22b6b549b9a2a76f6de7b7477b9f89f5861f3e91a1"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/sole_left.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ffb0032792ba57bf6b452254003004b300ab0bf1e6efea2ae88519f245e0b823",
+    "published_sha256": "ffb0032792ba57bf6b452254003004b300ab0bf1e6efea2ae88519f245e0b823"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/sole_left.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "db35f3b231c075fe1f9cb5449e7a698fb8ea97362daf8432be3e9700c2067574",
+    "published_sha256": "db35f3b231c075fe1f9cb5449e7a698fb8ea97362daf8432be3e9700c2067574"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/sole_right.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5362397c481ef7cbe09740b33f42eaf1af1385c3bc9d08b202d088e5fc4c48f4",
+    "published_sha256": "5362397c481ef7cbe09740b33f42eaf1af1385c3bc9d08b202d088e5fc4c48f4"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/sole_right.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a4f5c114aae7137d559cacfb71d77c981588850335de5a09a14f95a4192a218f",
+    "published_sha256": "a4f5c114aae7137d559cacfb71d77c981588850335de5a09a14f95a4192a218f"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/speaker.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "85a0792545beacafdacab250149681219cc7cfef6313ccb7176216dc52b007c0",
+    "published_sha256": "85a0792545beacafdacab250149681219cc7cfef6313ccb7176216dc52b007c0"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/speaker.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "694064a99dbecd48aea6122232ff1051b085e59ccbd4c53d8c32640105b4e826",
+    "published_sha256": "694064a99dbecd48aea6122232ff1051b085e59ccbd4c53d8c32640105b4e826"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/tire.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4efa94edfa0848c7eaada2624404f9b202467b6c646d1d8688fb511a4d8f878e",
+    "published_sha256": "4efa94edfa0848c7eaada2624404f9b202467b6c646d1d8688fb511a4d8f878e"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/tire.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "9f680806474bcfaa5b0a1db5b008578ccbedb33b60a39221c494cbff409033c9",
+    "published_sha256": "9f680806474bcfaa5b0a1db5b008578ccbedb33b60a39221c494cbff409033c9"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/top_head_shell.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f360b4a97017b99c5526bdb550917832d450aa4902699b2f429c7474093252c1",
+    "published_sha256": "f360b4a97017b99c5526bdb550917832d450aa4902699b2f429c7474093252c1"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/top_head_shell.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "bc64288c0d54e13ec907256c2b99535937d370af1410de498905ec3cf8d7c3df",
+    "published_sha256": "bc64288c0d54e13ec907256c2b99535937d370af1410de498905ec3cf8d7c3df"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/trunk_base.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "06e306b5be13395d2e6f2cd44a97e8f55557052ba7f5e6829995977127401ccb",
+    "published_sha256": "06e306b5be13395d2e6f2cd44a97e8f55557052ba7f5e6829995977127401ccb"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/trunk_base.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "fabfecefb73fbdc027e0fc8fc482a3857b86682a8dac0ca2ed88ae3011c01659",
+    "published_sha256": "fabfecefb73fbdc027e0fc8fc482a3857b86682a8dac0ca2ed88ae3011c01659"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/trunk_shell_left.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "16b045d38fc21ba05d339ecfed088d1e3dc558e758257390f3d0329923386856",
+    "published_sha256": "16b045d38fc21ba05d339ecfed088d1e3dc558e758257390f3d0329923386856"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/trunk_shell_left.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "508bf1436c09bb5acb27568b157477f74ccd985f5cb0911a0d0e25d178882772",
+    "published_sha256": "508bf1436c09bb5acb27568b157477f74ccd985f5cb0911a0d0e25d178882772"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/trunk_shell_right.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7455f306da6716514c12c31eca7aea4ddeb499c7dd230eaeb6465920128dc4f6",
+    "published_sha256": "7455f306da6716514c12c31eca7aea4ddeb499c7dd230eaeb6465920128dc4f6"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/trunk_shell_right.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d5761d6995bfc175ddf429bab8ee2fab2fa9dea1ff52da30531a3b79be1c730e",
+    "published_sha256": "d5761d6995bfc175ddf429bab8ee2fab2fa9dea1ff52da30531a3b79be1c730e"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/upper_leg_left.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7c063eafef78ae93911b7d5b8383968197b3c1981141b3d4183ac7615edb5244",
+    "published_sha256": "7c063eafef78ae93911b7d5b8383968197b3c1981141b3d4183ac7615edb5244"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/upper_leg_left.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b84e46d681cb971029e421c252de85e2f31e8858abee610dc26cd18037ef0224",
+    "published_sha256": "b84e46d681cb971029e421c252de85e2f31e8858abee610dc26cd18037ef0224"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/upper_leg_right.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4e9bee95c91c19a05cbc528926eca320b19f78a250dd33df203a4c18be5f588a",
+    "published_sha256": "4e9bee95c91c19a05cbc528926eca320b19f78a250dd33df203a4c18be5f588a"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/upper_leg_right.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d6ed49dc77a539c65b9db1251f16b1e037f5ccf4334607e487dd624f9e12f59e",
+    "published_sha256": "d6ed49dc77a539c65b9db1251f16b1e037f5ccf4334607e487dd624f9e12f59e"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/upper_leg_rigidity_plate.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ef84e417228b03a23592b2e66192c7b95bef6beda582ea3fa7dff4823f694123",
+    "published_sha256": "ef84e417228b03a23592b2e66192c7b95bef6beda582ea3fa7dff4823f694123"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/upper_leg_rigidity_plate.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "41a4f826b5badfb75a1c0a6d26527c49761de88597d67c25ad731df2cdab7995",
+    "published_sha256": "41a4f826b5badfb75a1c0a6d26527c49761de88597d67c25ad731df2cdab7995"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/xl330.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "038c57fd1dae4419cf1c9481891479749625a0339803a72a8a97b6fd04722414",
+    "published_sha256": "038c57fd1dae4419cf1c9481891479749625a0339803a72a8a97b6fd04722414"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/xl330.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c9f6bf7dd9d8b307a4174b40ff12517b3ea470e5535319a5b7dcce4ba52cdfe1",
+    "published_sha256": "c9f6bf7dd9d8b307a4174b40ff12517b3ea470e5535319a5b7dcce4ba52cdfe1"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/yaw2roll.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "83506821e896b626cf0ceffc15bd20fd12f7acea2cd143a6e3fe91032953f5f7",
+    "published_sha256": "83506821e896b626cf0ceffc15bd20fd12f7acea2cd143a6e3fe91032953f5f7"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/yaw2roll.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "56ce1110e43c2279c6580f79a2a8c9e3f91b3bf5cdf8cf00b1caa3cab127a6a7",
+    "published_sha256": "56ce1110e43c2279c6580f79a2a8c9e3f91b3bf5cdf8cf00b1caa3cab127a6a7"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/yaw_roll_motion.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "38b10c473463ff0417f3d12f75abf481ab81a3779d47cc560185b8c6d466f5fd",
+    "published_sha256": "38b10c473463ff0417f3d12f75abf481ab81a3779d47cc560185b8c6d466f5fd"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/assets/yaw_roll_motion.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "41149f07f2fb4f2c62b589b3e43c17bedbc57e17d2de5d4e22c4f4e4d3e73dc7",
+    "published_sha256": "41149f07f2fb4f2c62b589b3e43c17bedbc57e17d2de5d4e22c4f4e4d3e73dc7"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/ball.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "54a455bf454a9b6167655381df91593bbca86695d8d71e29fb6af69454c7c865",
+    "published_sha256": "54a455bf454a9b6167655381df91593bbca86695d8d71e29fb6af69454c7c865"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/config_mjcf_allcollisions.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2c27728a0e6d7d9dcfe210ede931cc24f5a59f19fbd6b0846bf8eca1c9ac1e11",
+    "published_sha256": "2c27728a0e6d7d9dcfe210ede931cc24f5a59f19fbd6b0846bf8eca1c9ac1e11"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/config_mjcf_allcollisions_backlash.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "19f453a1409c15867f7e08577b49cf1d3b52f7bfaa6abbccf7456cfd28dc5ebb",
+    "published_sha256": "19f453a1409c15867f7e08577b49cf1d3b52f7bfaa6abbccf7456cfd28dc5ebb"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/config_mjcf_allcollisions_rollers.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5932ade31b859e9bb4d9986b0d0d8e7000d4d2f6048b86a919f49e462694328c",
+    "published_sha256": "5932ade31b859e9bb4d9986b0d0d8e7000d4d2f6048b86a919f49e462694328c"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/config_mjcf_allcollisions_rollers_backlash.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a0d61ffc0bbfcce791c6b79b25694ce3401cf4b693819b91d5f751e8c033585e",
+    "published_sha256": "a0d61ffc0bbfcce791c6b79b25694ce3401cf4b693819b91d5f751e8c033585e"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/config_mjcf_walk.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "31fdf5bd061170fb41729b3a82a7780e772121ec566625c5a6bf849b890b31f9",
+    "published_sha256": "31fdf5bd061170fb41729b3a82a7780e772121ec566625c5a6bf849b890b31f9"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/config_mjcf_walk_backlash.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1f662b54138c30b135a451e1765da34045b6330bcb7c573d2719c51ef5f564a0",
+    "published_sha256": "1f662b54138c30b135a451e1765da34045b6330bcb7c573d2719c51ef5f564a0"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/joints_properties.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "6a4481a9279ffd92139479e67515df7b3510799ceb648c18fde0d58c300eae86",
+    "published_sha256": "6a4481a9279ffd92139479e67515df7b3510799ceb648c18fde0d58c300eae86"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/robot_allcollisions.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7a6fdf437f5a80c7348ad801f43f906b997a834389cb70cca5e1e8517ba38044",
+    "published_sha256": "7a6fdf437f5a80c7348ad801f43f906b997a834389cb70cca5e1e8517ba38044"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/robot_allcollisions_backlash.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "248c712e13258104ccab3f96c5cc47c7faa8f718f56f2c7de03efda653c8fb6b",
+    "published_sha256": "248c712e13258104ccab3f96c5cc47c7faa8f718f56f2c7de03efda653c8fb6b"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/robot_allcollisions_rollers.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c201a72ecbc4dd8e110c840cb79b1647aab59e6c76db7369a88c34a33307447e",
+    "published_sha256": "c201a72ecbc4dd8e110c840cb79b1647aab59e6c76db7369a88c34a33307447e"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/robot_allcollisions_rollers_backlash.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "97d18e5426a911a443b06ec28ea87af18413f243c12cbb55ae844bbb5b0c2e2c",
+    "published_sha256": "97d18e5426a911a443b06ec28ea87af18413f243c12cbb55ae844bbb5b0c2e2c"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/robot_walk.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "07af5e482200dfd2a7bf80ddde371153c88768a3a5aebc2f58ea42136fc7dadb",
+    "published_sha256": "07af5e482200dfd2a7bf80ddde371153c88768a3a5aebc2f58ea42136fc7dadb"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/robot_walk_backlash.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "43686e85bf0fa0c77c89673d546c483d4a22d06a9c81fff3a673bfe9aae36d0d",
+    "published_sha256": "43686e85bf0fa0c77c89673d546c483d4a22d06a9c81fff3a673bfe9aae36d0d"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/scene.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0d2f58227a3e1c4caae4e847a368ae83516d0f398f428c4e96737b67dd894ef1",
+    "published_sha256": "0d2f58227a3e1c4caae4e847a368ae83516d0f398f428c4e96737b67dd894ef1"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/scene_backlash.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "9ad82184844332f3999a3bb4e634700e8d8010f9974744c16f9ac174243cf488",
+    "published_sha256": "9ad82184844332f3999a3bb4e634700e8d8010f9974744c16f9ac174243cf488"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/scene_ball.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3d59c82db5c3ac5cb35b1f5d4dfa550832be2eddffa9249ba0bfef3b6452e2bd",
+    "published_sha256": "3d59c82db5c3ac5cb35b1f5d4dfa550832be2eddffa9249ba0bfef3b6452e2bd"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/scene_rollers.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b22987450ae4d8e4656d6f236390ef0d01ad316560f645a557a2d18c4b45dc2d",
+    "published_sha256": "b22987450ae4d8e4656d6f236390ef0d01ad316560f645a557a2d18c4b45dc2d"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/scene_walk.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "6e23146c1a5025473b55ec94cbe37b08104ca388b7eb005ea277f8230736c8be",
+    "published_sha256": "6e23146c1a5025473b55ec94cbe37b08104ca388b7eb005ea277f8230736c8be"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/scene_walk_backlash.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "bf71c93e90f5a70890f6f76f79f8ba25191cf7ef0a8de47b1dd24f629449150b",
+    "published_sha256": "bf71c93e90f5a70890f6f76f79f8ba25191cf7ef0a8de47b1dd24f629449150b"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck/sensors.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "47854a0ab18261f069553e1572e0c329c4f39e4557dbdada71e0dc62af14ee20",
+    "published_sha256": "47854a0ab18261f069553e1572e0c329c4f39e4557dbdada71e0dc62af14ee20"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/microduck_constants.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b846c0e99ac340b0c6a0c35da686a7c5fd2fd84ef6cccaed15255fcbfd30682a",
+    "published_sha256": "b846c0e99ac340b0c6a0c35da686a7c5fd2fd84ef6cccaed15255fcbfd30682a"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/testbench_constants.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "bf5e95376131471443e1daddf5abb0bc6326bc6b5c49bfb352774bcc6b011b9f",
+    "published_sha256": "bf5e95376131471443e1daddf5abb0bc6326bc6b5c49bfb352774bcc6b011b9f"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/arm.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "081b71065888ab6ccb90b601e21438a115d748a19164d0d1d0ac19fffbb3bbef",
+    "published_sha256": "081b71065888ab6ccb90b601e21438a115d748a19164d0d1d0ac19fffbb3bbef"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/arm.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2b5adeff9acddca7ca3f14ca502687bdccb0d5718ca5eee5ea8e0b7b92fe460e",
+    "published_sha256": "2b5adeff9acddca7ca3f14ca502687bdccb0d5718ca5eee5ea8e0b7b92fe460e"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/axis.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e50bc0c3d0d0efc2c0389db3da6614b38d1ac3d63b586bd0c419c097be35a6d3",
+    "published_sha256": "e50bc0c3d0d0efc2c0389db3da6614b38d1ac3d63b586bd0c419c097be35a6d3"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/axis.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "435cdf37cd5cfd9cc7ce1202fcf075aebabffbf6cf1249a8e8d3a93d6350b244",
+    "published_sha256": "435cdf37cd5cfd9cc7ce1202fcf075aebabffbf6cf1249a8e8d3a93d6350b244"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/bench_holder.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e54085f77346853620ce55bf8bac6c6ba1e5569bda857edf851890605ec96327",
+    "published_sha256": "e54085f77346853620ce55bf8bac6c6ba1e5569bda857edf851890605ec96327"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/bench_holder.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3a46df8b07b5b7eda4a0f68642cc90e4a557cb3f8678e49a2508b9225a26cba1",
+    "published_sha256": "3a46df8b07b5b7eda4a0f68642cc90e4a557cb3f8678e49a2508b9225a26cba1"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/part_1.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e49e473f52d3f72fd8dcdffa16bece1dd019ecba220721a5c03fd42986901367",
+    "published_sha256": "e49e473f52d3f72fd8dcdffa16bece1dd019ecba220721a5c03fd42986901367"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/part_1.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2b5adeff9acddca7ca3f14ca502687bdccb0d5718ca5eee5ea8e0b7b92fe460e",
+    "published_sha256": "2b5adeff9acddca7ca3f14ca502687bdccb0d5718ca5eee5ea8e0b7b92fe460e"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/part_2.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b0c87058dda6e65b78ce252b0da49cc77f4e7101d6d9a1be1cfcff4ff8293208",
+    "published_sha256": "b0c87058dda6e65b78ce252b0da49cc77f4e7101d6d9a1be1cfcff4ff8293208"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/part_2.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "6f57229eb624849885294536527402ebd6a2e4933e086ad80eda1604d3fbec0c",
+    "published_sha256": "6f57229eb624849885294536527402ebd6a2e4933e086ad80eda1604d3fbec0c"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/part_3.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f8021a43202b3a5b3af40455f4790a1fa85695ddec8dd38fb1ea8d6970a9bb30",
+    "published_sha256": "f8021a43202b3a5b3af40455f4790a1fa85695ddec8dd38fb1ea8d6970a9bb30"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/part_3.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3a46df8b07b5b7eda4a0f68642cc90e4a557cb3f8678e49a2508b9225a26cba1",
+    "published_sha256": "3a46df8b07b5b7eda4a0f68642cc90e4a557cb3f8678e49a2508b9225a26cba1"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/part_4.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7bc00fb470725890737598e59ee990a2bb82c242994f671d92b3fa597e4234d5",
+    "published_sha256": "7bc00fb470725890737598e59ee990a2bb82c242994f671d92b3fa597e4234d5"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/part_4.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4e5b08e92d99bb9fa2d0f4b00f9c1f25b98092f1594e9735c38caef76a4475a7",
+    "published_sha256": "4e5b08e92d99bb9fa2d0f4b00f9c1f25b98092f1594e9735c38caef76a4475a7"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/part_5.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e650c96517ea0fc724fc6042043a7fa9bcba94faa26f9d5cdfcc0fc4b519e930",
+    "published_sha256": "e650c96517ea0fc724fc6042043a7fa9bcba94faa26f9d5cdfcc0fc4b519e930"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/part_5.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "435cdf37cd5cfd9cc7ce1202fcf075aebabffbf6cf1249a8e8d3a93d6350b244",
+    "published_sha256": "435cdf37cd5cfd9cc7ce1202fcf075aebabffbf6cf1249a8e8d3a93d6350b244"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/spacer.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "55d9bfc8ab9583b8f9967762d2e79821f27bdfe539790ac69968058b25fd4bbc",
+    "published_sha256": "55d9bfc8ab9583b8f9967762d2e79821f27bdfe539790ac69968058b25fd4bbc"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/spacer.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "6f57229eb624849885294536527402ebd6a2e4933e086ad80eda1604d3fbec0c",
+    "published_sha256": "6f57229eb624849885294536527402ebd6a2e4933e086ad80eda1604d3fbec0c"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/weight.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "612e03a44dc3d61747e6504a9df7b927117503dfeeba38fe132ca697870c2164",
+    "published_sha256": "612e03a44dc3d61747e6504a9df7b927117503dfeeba38fe132ca697870c2164"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/weight.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4e5b08e92d99bb9fa2d0f4b00f9c1f25b98092f1594e9735c38caef76a4475a7",
+    "published_sha256": "4e5b08e92d99bb9fa2d0f4b00f9c1f25b98092f1594e9735c38caef76a4475a7"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/xl330.part",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e1e95b797098ec0e855db86c7d316b689dd04445d838c92a2bfc8d6a624efa50",
+    "published_sha256": "e1e95b797098ec0e855db86c7d316b689dd04445d838c92a2bfc8d6a624efa50"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/assets/xl330.stl",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c9f6bf7dd9d8b307a4174b40ff12517b3ea470e5535319a5b7dcce4ba52cdfe1",
+    "published_sha256": "c9f6bf7dd9d8b307a4174b40ff12517b3ea470e5535319a5b7dcce4ba52cdfe1"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/config.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c66518cd6fade3bbe881be0ab9b6e1ac395ddfb41a9b3ce5b39dfdf58e3a0210",
+    "published_sha256": "c66518cd6fade3bbe881be0ab9b6e1ac395ddfb41a9b3ce5b39dfdf58e3a0210"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/joints_properties.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5204d854ca41a08b752be733acc7abe238c279f6525cbf2c532792446b187458",
+    "published_sha256": "5204d854ca41a08b752be733acc7abe238c279f6525cbf2c532792446b187458"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/scene.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "711f1503b4cee29270f206bd538de38fbd9df18cb2c12ff6a012061fadce247c",
+    "published_sha256": "711f1503b4cee29270f206bd538de38fbd9df18cb2c12ff6a012061fadce247c"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/robot/xl330_test_bench/xl330_test_bench.xml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b189f8c9d97b1e8fd11a67e8270f379042f863bca24d3af03970194c5e3451f2",
+    "published_sha256": "b189f8c9d97b1e8fd11a67e8270f379042f863bca24d3af03970194c5e3451f2"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/__init__.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a5e66678babc43829c4cdedb452c577da5937356b6383c441a3b2ff86c52d3b0",
+    "published_sha256": "a5e66678babc43829c4cdedb452c577da5937356b6383c441a3b2ff86c52d3b0"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/backlash.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c2fc78e42576c40f7a6ac8eac034630e780bd1881a843666274e64d424e8dcb4",
+    "published_sha256": "c2fc78e42576c40f7a6ac8eac034630e780bd1881a843666274e64d424e8dcb4"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/mdp.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2c1a046ea8845a1ae0b986fa9d12bc27aa279d4f7f699ac2116ccc8bb2b5863a",
+    "published_sha256": "2c1a046ea8845a1ae0b986fa9d12bc27aa279d4f7f699ac2116ccc8bb2b5863a"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_ball_kick_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "313180628c0d0364ea6d0f1843e7e3e10b76585491b90b0c1f0e301d9e5fd30c",
+    "published_sha256": "313180628c0d0364ea6d0f1843e7e3e10b76585491b90b0c1f0e301d9e5fd30c"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_ground_pick_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "9b68951e2c84fdccb5894701efa97e060438eb56c956a34c65e844ba3fa6185e",
+    "published_sha256": "9b68951e2c84fdccb5894701efa97e060438eb56c956a34c65e844ba3fa6185e"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_hd1910_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3a14010c6902bb3089e302b13149364e6db294316fbc79619d831029eecae35a",
+    "published_sha256": "3a14010c6902bb3089e302b13149364e6db294316fbc79619d831029eecae35a"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_roller_crouch_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "745142fab9ffc4c43a6b7d367d6be37f5675f5fbf255ac4341a9e2a21a4062ee",
+    "published_sha256": "745142fab9ffc4c43a6b7d367d6be37f5675f5fbf255ac4341a9e2a21a4062ee"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_roller_slope_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "92738df650e3527c8cbe194169f60fb2a232933b1eabbbaf7d4b7d2aa67e2b42",
+    "published_sha256": "92738df650e3527c8cbe194169f60fb2a232933b1eabbbaf7d4b7d2aa67e2b42"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_roller_standup_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "146e417c082823039b87d2ff350e96e84007df80c268d53984d7c160f25cdeee",
+    "published_sha256": "146e417c082823039b87d2ff350e96e84007df80c268d53984d7c160f25cdeee"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_roulade_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7075e079849a9961dbe8d35dc680848c9651e8a98897f08538c48b29f715fc10",
+    "published_sha256": "7075e079849a9961dbe8d35dc680848c9651e8a98897f08538c48b29f715fc10"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_sitstand_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4cb26df53b53beea7e98f995a13dfe3de31c8c0f46b963818a6e337c4a256ac2",
+    "published_sha256": "4cb26df53b53beea7e98f995a13dfe3de31c8c0f46b963818a6e337c4a256ac2"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_spin_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ba85e26407a29a208f871aa229bb2c7971eca6087f0740e7de6f898adbc5b395",
+    "published_sha256": "ba85e26407a29a208f871aa229bb2c7971eca6087f0740e7de6f898adbc5b395"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_standup_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b20b8f3fac5a374dd602f371f0b500955b4dbcb4d3f7330bddfa15b327826873",
+    "published_sha256": "b20b8f3fac5a374dd602f371f0b500955b4dbcb4d3f7330bddfa15b327826873"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_velocity_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "75a0430b814ac7495eb237ab806fbd4dd10309b9fd3027ac3eee3c2e3c5a944a",
+    "published_sha256": "75a0430b814ac7495eb237ab806fbd4dd10309b9fd3027ac3eee3c2e3c5a944a"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_velocity_rollers_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c134f914a516dad7c34f31aecb073b2973c44cf02017ee8bef66ebd046c587fe",
+    "published_sha256": "c134f914a516dad7c34f31aecb073b2973c44cf02017ee8bef66ebd046c587fe"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_velocity_swizzle_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "75197c956afd77586f60e4b773033ace15e088179bb5912a88328862b0a10f49",
+    "published_sha256": "75197c956afd77586f60e4b773033ace15e088179bb5912a88328862b0a10f49"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/microduck_velstand_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0ccb20f3334d47afcb59dcdb9cda54fdd417b86f535fec8c73f5db6fe0d1c666",
+    "published_sha256": "0ccb20f3334d47afcb59dcdb9cda54fdd417b86f535fec8c73f5db6fe0d1c666"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/slope_terrain.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1ce48eef8b4bd82cde94d7c9f50f19d2992f4dc8d3b5b5d314b7381bc572b8a0",
+    "published_sha256": "1ce48eef8b4bd82cde94d7c9f50f19d2992f4dc8d3b5b5d314b7381bc572b8a0"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/symmetry.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e37980389773f2f87b8f376df449af4d70e0c983744459f9a35a3ee7b686186b",
+    "published_sha256": "e37980389773f2f87b8f376df449af4d70e0c983744459f9a35a3ee7b686186b"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/tasks/testbench_env_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d254218ca3f491e52d471ad033ebd1cb39a339f1f21394ea55e2bec4f3dc2776",
+    "published_sha256": "d254218ca3f491e52d471ad033ebd1cb39a339f1f21394ea55e2bec4f3dc2776"
+  },
+  {
+    "path": "software/training/src/mjlab_microduck/train_cli.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ab210a1ee8eaf56ab8499eaf3b71b60f2d32935db7a041db621f3975ec7120aa",
+    "published_sha256": "ab210a1ee8eaf56ab8499eaf3b71b60f2d32935db7a041db621f3975ec7120aa"
+  },
+  {
+    "path": "software/training/tests/test_aarch64_cuda_torch.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a709e75b92398465c28244b5282f67fa0c762f83bf63f331dd7cc895ca203e02",
+    "published_sha256": "a709e75b92398465c28244b5282f67fa0c762f83bf63f331dd7cc895ca203e02"
+  },
+  {
+    "path": "software/training/tests/test_crouch_glide.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a98d7a4cfea4d0995b685ab261b35de6173dc89b7024bd2fd7c80f840beda25c",
+    "published_sha256": "a98d7a4cfea4d0995b685ab261b35de6173dc89b7024bd2fd7c80f840beda25c"
+  },
+  {
+    "path": "software/training/tests/test_descent_speed.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3e4d7bca6881a3055b487507301801c6d6de1e880f7bfa9bec3d9ad978cbf69c",
+    "published_sha256": "3e4d7bca6881a3055b487507301801c6d6de1e880f7bfa9bec3d9ad978cbf69c"
+  },
+  {
+    "path": "software/training/tests/test_ground_pick_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0d1556219800df3b7c7d6c7c53f1ae304d0072ebaf8dbe57e5937f11bdf05708",
+    "published_sha256": "0d1556219800df3b7c7d6c7c53f1ae304d0072ebaf8dbe57e5937f11bdf05708"
+  },
+  {
+    "path": "software/training/tests/test_ground_pick_pose.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "dc2156a7d1f730f09c6ff139e07574f5255c7c6fc17900b190905dee00046855",
+    "published_sha256": "dc2156a7d1f730f09c6ff139e07574f5255c7c6fc17900b190905dee00046855"
+  },
+  {
+    "path": "software/training/tests/test_hd1910_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "649f005eb2dab142259cec7f04be8d8ccb68670608aaecbcf4cd60160206d363",
+    "published_sha256": "649f005eb2dab142259cec7f04be8d8ccb68670608aaecbcf4cd60160206d363"
+  },
+  {
+    "path": "software/training/tests/test_hd1910_rollout.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "8b4b509aad994cdea946f360afd6cc5622e23360e213730f69f63ffab522fc65",
+    "published_sha256": "8b4b509aad994cdea946f360afd6cc5622e23360e213730f69f63ffab522fc65"
+  },
+  {
+    "path": "software/training/tests/test_head_pose_bias.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "21c94e089004de584e7d0422f94dabb3b566bb182b000f01031c8badf84ed9ee",
+    "published_sha256": "21c94e089004de584e7d0422f94dabb3b566bb182b000f01031c8badf84ed9ee"
+  },
+  {
+    "path": "software/training/tests/test_hf_source_snapshot.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e45a3f150d2ff606057c7e1358ce3a1add134fb10e8200af81ed58d62df41394",
+    "published_sha256": "e45a3f150d2ff606057c7e1358ce3a1add134fb10e8200af81ed58d62df41394"
+  },
+  {
+    "path": "software/training/tests/test_nan_guard.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b80c338ce6949ab754806615bce2b8b8e47b43391f0290f07afbb1cd43e7facf",
+    "published_sha256": "b80c338ce6949ab754806615bce2b8b8e47b43391f0290f07afbb1cd43e7facf"
+  },
+  {
+    "path": "software/training/tests/test_obs_nan_guard.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d521a3ddf30f9be8fee54dd2dce68a662952e9acc05223457bf68a24af8aa731",
+    "published_sha256": "d521a3ddf30f9be8fee54dd2dce68a662952e9acc05223457bf68a24af8aa731"
+  },
+  {
+    "path": "software/training/tests/test_roller_crouch_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "99598c25cbb265e12ea3eca0cbbe30616183e0e28f75cfa3f82fb5e600ecfa9d",
+    "published_sha256": "99598c25cbb265e12ea3eca0cbbe30616183e0e28f75cfa3f82fb5e600ecfa9d"
+  },
+  {
+    "path": "software/training/tests/test_roller_slope_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "62fe70c4cc69b42294f43db2480a53b3048569118344d691b8c654947c724122",
+    "published_sha256": "62fe70c4cc69b42294f43db2480a53b3048569118344d691b8c654947c724122"
+  },
+  {
+    "path": "software/training/tests/test_roller_standup_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7067c4375d8b43471bcd94a6c9b1a8c1c17b6bac64099588cc13356009aebba7",
+    "published_sha256": "7067c4375d8b43471bcd94a6c9b1a8c1c17b6bac64099588cc13356009aebba7"
+  },
+  {
+    "path": "software/training/tests/test_slope_curriculum.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "efd0e6f4e3ece42bdfdca011815a5506af74a5f094fbd265e5644f964678e6a0",
+    "published_sha256": "efd0e6f4e3ece42bdfdca011815a5506af74a5f094fbd265e5644f964678e6a0"
+  },
+  {
+    "path": "software/training/tests/test_slope_terrain.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a48713d10b1ee4faddef6e96c54d1f3ff09f71ea73c787714babd1d3af6afbfc",
+    "published_sha256": "a48713d10b1ee4faddef6e96c54d1f3ff09f71ea73c787714babd1d3af6afbfc"
+  },
+  {
+    "path": "software/training/tests/test_spin.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0f27f1a1afee0c2c7c15e73fdad4c2649b4f396670206dbb57aa1743f71b4b95",
+    "published_sha256": "0f27f1a1afee0c2c7c15e73fdad4c2649b4f396670206dbb57aa1743f71b4b95"
+  },
+  {
+    "path": "software/training/tests/test_spin_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "62dfeac34c863e755650790f62af19b8e4584f829c640f455d71c08ec5fec065",
+    "published_sha256": "62dfeac34c863e755650790f62af19b8e4584f829c640f455d71c08ec5fec065"
+  },
+  {
+    "path": "software/training/tests/test_swizzle_head_cfg.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d053d11281576687230fe60234ec0fb545ee1c2974486df8ac5996628e346cb7",
+    "published_sha256": "d053d11281576687230fe60234ec0fb545ee1c2974486df8ac5996628e346cb7"
+  },
+  {
+    "path": "software/training/tests/test_wheel_glide.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5e9796ed46f9a1b09a160c9b868c3d525ca2f6bece3ca202b369409e99c537bb",
+    "published_sha256": "5e9796ed46f9a1b09a160c9b868c3d525ca2f6bece3ca202b369409e99c537bb"
+  },
+  {
+    "path": "software/training/uv.lock",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2eeeb680025baa737e7ccf3a87da3695a9d49b228de0bb60d8af0c022ab5f1aa",
+    "published_sha256": "2eeeb680025baa737e7ccf3a87da3695a9d49b228de0bb60d8af0c022ab5f1aa"
+  },
+  {
+    "path": "tools/servo-web/.gitignore",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c466a61769b3c944bbf7a0d543879d89c82d65afc470a5ad138f09fcf431d341",
+    "published_sha256": "c466a61769b3c944bbf7a0d543879d89c82d65afc470a5ad138f09fcf431d341"
+  },
+  {
+    "path": "tools/servo-web/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4663d5d5f3c936e1ccd3b35dfda88290d16730cf0f29266d9cc58ea4e5dc15dc",
+    "published_sha256": "16aab4a2a45391ac0a4f697f8467bdce3a5fbb207b70ba29250f90f952f0fd92"
+  },
+  {
+    "path": "tools/servo-web/build_model.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0efa8f991a72b3a647aa3fc20cce2669dd94a7029db276f8b50ad4aaa1aeb06c",
+    "published_sha256": "0efa8f991a72b3a647aa3fc20cce2669dd94a7029db276f8b50ad4aaa1aeb06c"
+  },
+  {
+    "path": "tools/servo-web/directions.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "313bb53255eef0ae0cab252f69fe5c31abf609c34201d33a6116e0f33da04ba4",
+    "published_sha256": "313bb53255eef0ae0cab252f69fe5c31abf609c34201d33a6116e0f33da04ba4"
+  },
+  {
+    "path": "tools/servo-web/feetech.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2a39efeaa78213c6e52bc9fdbfda83871c31002bb64d87bbd7bc38762cea9e87",
+    "published_sha256": "2a39efeaa78213c6e52bc9fdbfda83871c31002bb64d87bbd7bc38762cea9e87"
+  },
+  {
+    "path": "tools/servo-web/imu-jlink.example.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0031942c89b9b0713d653d5125ef1bdd9dc03e9f8b57c51ac2dd5d02298b7a94",
+    "published_sha256": "0031942c89b9b0713d653d5125ef1bdd9dc03e9f8b57c51ac2dd5d02298b7a94"
+  },
+  {
+    "path": "tools/servo-web/imu_attitude.js",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "57c1984bff897471e6b5890312c9da66179afada7332a8160b5b1981ce01ec66",
+    "published_sha256": "57c1984bff897471e6b5890312c9da66179afada7332a8160b5b1981ce01ec66"
+  },
+  {
+    "path": "tools/servo-web/imu_bridge.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3dc7ba35fa639fc5b881151e017d5fd6d4f6ddf95db0733be04e65c8d9ef9e7d",
+    "published_sha256": "3dc7ba35fa639fc5b881151e017d5fd6d4f6ddf95db0733be04e65c8d9ef9e7d"
+  },
+  {
+    "path": "tools/servo-web/imu_bus.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a3e4864f1208c5a4cf853fcc90d3bf2019a28f8ea4dad4b0d77587e0be91bafa",
+    "published_sha256": "a3e4864f1208c5a4cf853fcc90d3bf2019a28f8ea4dad4b0d77587e0be91bafa"
+  },
+  {
+    "path": "tools/servo-web/index.html",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7af4dcab071ad5b577e0284a65b5fe81d0aa85b5b1d45f50be08fdefdbc6bb1a",
+    "published_sha256": "7af4dcab071ad5b577e0284a65b5fe81d0aa85b5b1d45f50be08fdefdbc6bb1a"
+  },
+  {
+    "path": "tools/servo-web/model/NOTICE.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "6b0445fa294ae29326509486c642aa489ed47002645e2a268d3b0eff33629db3",
+    "published_sha256": "6b0445fa294ae29326509486c642aa489ed47002645e2a268d3b0eff33629db3"
+  },
+  {
+    "path": "tools/servo-web/model/meshes.bin",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d2252354ee5a04367aaf82242e08e52491b02ebbf27d48dc2c20350e6714d1a8",
+    "published_sha256": "d2252354ee5a04367aaf82242e08e52491b02ebbf27d48dc2c20350e6714d1a8"
+  },
+  {
+    "path": "tools/servo-web/model/model.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4759870326c14f8030393c6ceb9c4c1e9f264a45ef6d604a92df06c2c8d04073",
+    "published_sha256": "4759870326c14f8030393c6ceb9c4c1e9f264a45ef6d604a92df06c2c8d04073"
+  },
+  {
+    "path": "tools/servo-web/poses/站-2026-09-20.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2509d5c0aa97a688d49dff09011274b16988fbfec8a3635d7ad5b6d4c7eb1186",
+    "published_sha256": "2509d5c0aa97a688d49dff09011274b16988fbfec8a3635d7ad5b6d4c7eb1186"
+  },
+  {
+    "path": "tools/servo-web/poses/缩-2026-09-20.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "99e8291304ca16393a4e780ec559a097e8ae2c07290b6e0c48d69e3051f93bc1",
+    "published_sha256": "99e8291304ca16393a4e780ec559a097e8ae2c07290b6e0c48d69e3051f93bc1"
+  },
+  {
+    "path": "tools/servo-web/readpose.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "bd4acfc40a6954dbae247950a20c025d2a9488028aa56d7fd409e90052849344",
+    "published_sha256": "bd4acfc40a6954dbae247950a20c025d2a9488028aa56d7fd409e90052849344"
+  },
+  {
+    "path": "tools/servo-web/requirements-test.txt",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2ff0ecb4b968ff33529db3fc1414d836986d262fe8e425f6293a59513f015398",
+    "published_sha256": "2ff0ecb4b968ff33529db3fc1414d836986d262fe8e425f6293a59513f015398"
+  },
+  {
+    "path": "tools/servo-web/requirements.txt",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "533d9cae24981feb11903625e5c40d7afdbf89af7d809201ce8bebee294696aa",
+    "published_sha256": "533d9cae24981feb11903625e5c40d7afdbf89af7d809201ce8bebee294696aa"
+  },
+  {
+    "path": "tools/servo-web/selftest.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "65b49e65fa9b77fc774e3d94ac4b0a1a2080ab6fdde609b83fffbb2b080d78ee",
+    "published_sha256": "65b49e65fa9b77fc774e3d94ac4b0a1a2080ab6fdde609b83fffbb2b080d78ee"
+  },
+  {
+    "path": "tools/servo-web/server.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "db401b07a3775749563c339fa029d562ef6a3d4062ad813fb7c257b07d754c38",
+    "published_sha256": "db401b07a3775749563c339fa029d562ef6a3d4062ad813fb7c257b07d754c38"
+  },
+  {
+    "path": "tools/servo-web/servo_report.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "34a53a581156e316b8b783c934fffdd2f3248c6456f4657fa3eee7876b0c78fe",
+    "published_sha256": "34a53a581156e316b8b783c934fffdd2f3248c6456f4657fa3eee7876b0c78fe"
+  },
+  {
+    "path": "tools/servo-web/sim_bus.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "53944c9b3daacc3930b4f4b6783505145a393a15e0160cbd91e095a7dcc30e8c",
+    "published_sha256": "53944c9b3daacc3930b4f4b6783505145a393a15e0160cbd91e095a7dcc30e8c"
+  },
+  {
+    "path": "tools/servo-web/test_imu_attitude.cjs",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5c11fe1e9cab80f0ed4ddca8a90b6fee1fee03f82fa43c22564cf4fe24d3c439",
+    "published_sha256": "5c11fe1e9cab80f0ed4ddca8a90b6fee1fee03f82fa43c22564cf4fe24d3c439"
+  },
+  {
+    "path": "tools/servo-web/test_imu_bridge.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3e41175967d9f607e41ebc5a846255a63d687a03e4309d24ea1d78683973340b",
+    "published_sha256": "3e41175967d9f607e41ebc5a846255a63d687a03e4309d24ea1d78683973340b"
+  },
+  {
+    "path": "tools/servo-web/test_imu_bus.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c8b6370e75aff07335223411d189e8bcf7eb58cb78496703d777db897a1fd3c7",
+    "published_sha256": "c8b6370e75aff07335223411d189e8bcf7eb58cb78496703d777db897a1fd3c7"
+  },
+  {
+    "path": "tools/servo-web/test_imu_server.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e27e5aa1aa837ef7c4005c5bb95b0181dc419c01741f16de795bc8d7a8a81f35",
+    "published_sha256": "e27e5aa1aa837ef7c4005c5bb95b0181dc419c01741f16de795bc8d7a8a81f35"
+  },
+  {
+    "path": "tools/servo-web/test_imu_swd.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1f2fb1029e2d4e222173d2acc3980cb188b2cbd35f547c1cc61bd332770425dd",
+    "published_sha256": "1f2fb1029e2d4e222173d2acc3980cb188b2cbd35f547c1cc61bd332770425dd"
+  },
+  {
+    "path": "tools/servo-web/test_servo_report.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3916028c7eff996fd67ea8489fc655d3d7d0f41c8bd37181e0ce724763843905",
+    "published_sha256": "3916028c7eff996fd67ea8489fc655d3d7d0f41c8bd37181e0ce724763843905"
+  },
+  {
+    "path": "tools/servo-web/test_sim.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4b2d35926e607e2d7add47a2ca21f4bf8443500c9d9cef70cfc42e65faf12fc3",
+    "published_sha256": "4b2d35926e607e2d7add47a2ca21f4bf8443500c9d9cef70cfc42e65faf12fc3"
+  },
+  {
+    "path": "tools/servo-web/远程排查交接.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d6bd325418fbcd2092a1a53fe7b8c63f58ff8ef7c75dca8b3612d74c1188142b",
+    "published_sha256": "d6bd325418fbcd2092a1a53fe7b8c63f58ff8ef7c75dca8b3612d74c1188142b"
+  },
+  {
+    "path": "tools/imu200/.gitignore",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "96731671afe640d782dff36b82a3ad8d1ce0ebe4a7b174f6506f251395941e2f",
+    "published_sha256": "96731671afe640d782dff36b82a3ad8d1ce0ebe4a7b174f6506f251395941e2f"
+  },
+  {
+    "path": "tools/imu200/imu200.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c3ad44659c58c468f6270c8823700160e279b078396e15cc0a5e7a60548e2529",
+    "published_sha256": "c3ad44659c58c468f6270c8823700160e279b078396e15cc0a5e7a60548e2529"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/.gitattributes",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "21929de8d68074572596b69bdbb3a5b93fd97e2897184bdd691ff2aa637a6cd6",
+    "published_sha256": "21929de8d68074572596b69bdbb3a5b93fd97e2897184bdd691ff2aa637a6cd6"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/.gitignore",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1557a3993bfb7360e909e8739aab1b46fea7aa151856b18e32230c1a8576b9c6",
+    "published_sha256": "1557a3993bfb7360e909e8739aab1b46fea7aa151856b18e32230c1a8576b9c6"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Build/imu_to_dxl.hex",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "10ef4813c52a6f8ed0115d5ac09c271f895e1e1097d904f9f916cf7cde880f35",
+    "published_sha256": "10ef4813c52a6f8ed0115d5ac09c271f895e1e1097d904f9f916cf7cde880f35"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Core/Inc/board.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "bd5a6ed66fcffa5caf81e4a0b35758a8bd31fb9b592499a9bd57b0eccfd85e09",
+    "published_sha256": "bd5a6ed66fcffa5caf81e4a0b35758a8bd31fb9b592499a9bd57b0eccfd85e09"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Core/Inc/board_config.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f9d00e510fddaf09cfdd830de492e554c5832e4301cc76759b63aade7e2cf894",
+    "published_sha256": "f9d00e510fddaf09cfdd830de492e554c5832e4301cc76759b63aade7e2cf894"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Core/Inc/control_table.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1e337230d7a1b6fd5be1f04f2695286c95cd05eedf7771b00388e7d58810b36c",
+    "published_sha256": "1e337230d7a1b6fd5be1f04f2695286c95cd05eedf7771b00388e7d58810b36c"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Core/Inc/imu.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "93f652e70771e3d4988fdc774062cbba986c827e96318835c43a481f0ce5f02c",
+    "published_sha256": "93f652e70771e3d4988fdc774062cbba986c827e96318835c43a481f0ce5f02c"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Core/Inc/protocol.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ac34e700fc8e48e1bd78315942f5e7d5dac4c6fb7d90e22c5b382bd61e55786e",
+    "published_sha256": "ac34e700fc8e48e1bd78315942f5e7d5dac4c6fb7d90e22c5b382bd61e55786e"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Core/Src/board.c",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "fe82bdde73eda2d994bb6ead7ee239172076860328a7cb383bb8b5136fb92740",
+    "published_sha256": "fe82bdde73eda2d994bb6ead7ee239172076860328a7cb383bb8b5136fb92740"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Core/Src/control_table.c",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d8dd679cdaefb42684ee9e31033d6ec6d14feb695fb90786fedb313ad6c951b9",
+    "published_sha256": "d8dd679cdaefb42684ee9e31033d6ec6d14feb695fb90786fedb313ad6c951b9"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Core/Src/imu.c",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f883d889de31b67b2c55e36d377be3dec4befd76ecea29fbe38e46e547830dc4",
+    "published_sha256": "f883d889de31b67b2c55e36d377be3dec4befd76ecea29fbe38e46e547830dc4"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Core/Src/main.c",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7780f989fe65983c9d2934fb84290aa5747710636282b7748131cf7023267bbc",
+    "published_sha256": "7780f989fe65983c9d2934fb84290aa5747710636282b7748131cf7023267bbc"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Core/Src/protocol.c",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "20d7c9bd80b31f04baef4aac5d499a7d885722a85193ff3b8df0964aee41695f",
+    "published_sha256": "20d7c9bd80b31f04baef4aac5d499a7d885722a85193ff3b8df0964aee41695f"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/DEPENDENCIES.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a047886bdd9c497684c4227155bb450f29237aaa52a7f3900ae03921dcbf3f77",
+    "published_sha256": "a047886bdd9c497684c4227155bb450f29237aaa52a7f3900ae03921dcbf3f77"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Device/ST/STM32G0xx/Include/stm32g031xx.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "336a1cdbbb54593c0d78c4c9440914deac58a523021883b7c96a76e7613f0a90",
+    "published_sha256": "336a1cdbbb54593c0d78c4c9440914deac58a523021883b7c96a76e7613f0a90"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Device/ST/STM32G0xx/Include/stm32g0xx.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f67dcdf72b69776ef2308a84090cd3ea87affc83470c225d39377494fac7c296",
+    "published_sha256": "f67dcdf72b69776ef2308a84090cd3ea87affc83470c225d39377494fac7c296"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Device/ST/STM32G0xx/Include/system_stm32g0xx.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "20ee999e4431472a7c351e2412537aa0ef7f5f5e499a21a92c1d4cc21f84ebf1",
+    "published_sha256": "20ee999e4431472a7c351e2412537aa0ef7f5f5e499a21a92c1d4cc21f84ebf1"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Device/ST/STM32G0xx/LICENSE.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "published_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Device/ST/STM32G0xx/Source/system_stm32g0xx.c",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d95e3aef373a5842d9166e2e3670991b98249082f989e2eea60151bc44588841",
+    "published_sha256": "d95e3aef373a5842d9166e2e3670991b98249082f989e2eea60151bc44588841"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Device/ST/STM32G0xx/source-commit.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "9ee9bf77696a71cf6d17cbac044d1f439fefdc08815b558d5c40ef89c1e391b9",
+    "published_sha256": "9ee9bf77696a71cf6d17cbac044d1f439fefdc08815b558d5c40ef89c1e391b9"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Include/cmsis_armclang.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f7361b36a56909eff2b1cecd778443fd9da21eaa86878dabf5e8e216f6bfea29",
+    "published_sha256": "f7361b36a56909eff2b1cecd778443fd9da21eaa86878dabf5e8e216f6bfea29"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Include/cmsis_compiler.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "8932e7ac5c9a13b199c64f25b3dc67ebf0a877b33dbcf434d4e1b78e625f57c5",
+    "published_sha256": "8932e7ac5c9a13b199c64f25b3dc67ebf0a877b33dbcf434d4e1b78e625f57c5"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Include/cmsis_version.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3b9195c5373a2a4dbfd968b083b3d7f5f446f9ec2e126f75928ac1ff4356b91e",
+    "published_sha256": "3b9195c5373a2a4dbfd968b083b3d7f5f446f9ec2e126f75928ac1ff4356b91e"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Include/core_cm0plus.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3a01ca99a202b3c2acf476e9523181c9f6ddb027fa8e097c0be0037b213c8f23",
+    "published_sha256": "3a01ca99a202b3c2acf476e9523181c9f6ddb027fa8e097c0be0037b213c8f23"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Include/m-profile/armv7m_mpu.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "44294dc3e331deb8daae269793e579cc10920a9b88d133bbaf3a7af65d29f9e4",
+    "published_sha256": "44294dc3e331deb8daae269793e579cc10920a9b88d133bbaf3a7af65d29f9e4"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/Include/m-profile/cmsis_armclang_m.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d7425ea4ca4577e557f9ea155006f5506db1e9f6580442d56d6417549ad53b92",
+    "published_sha256": "d7425ea4ca4577e557f9ea155006f5506db1e9f6580442d56d6417549ad53b92"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/LICENSE",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "published_sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/CMSIS/dependency-hashes.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "565482277d869d76967b76d72c7460670534ebeb2d8233c837cd539cee0af7ed",
+    "published_sha256": "565482277d869d76967b76d72c7460670534ebeb2d8233c837cd539cee0af7ed"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/LSM6DSV16X/LICENSE",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b54f36a43cf9b8f6292c8f0f3b4c267ebd59859587e0152c94305bc81dda68bc",
+    "published_sha256": "b54f36a43cf9b8f6292c8f0f3b4c267ebd59859587e0152c94305bc81dda68bc"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/LSM6DSV16X/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "374fb99a18688fcf21a9bbf4122c0fae4fb56de3389245238b185835fcd522f6",
+    "published_sha256": "374fb99a18688fcf21a9bbf4122c0fae4fb56de3389245238b185835fcd522f6"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/LSM6DSV16X/lsm6dsv16x_reg.c",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "cd2684780702d544e1c32a5fbac4698ae56a15c3f7db4d2786b5d9a1f22b82a6",
+    "published_sha256": "cd2684780702d544e1c32a5fbac4698ae56a15c3f7db4d2786b5d9a1f22b82a6"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/LSM6DSV16X/lsm6dsv16x_reg.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "6c0965c7acc93e00c7e9a60ab67af1d5eefd6cca255c2d0557cf0141086da591",
+    "published_sha256": "6c0965c7acc93e00c7e9a60ab67af1d5eefd6cca255c2d0557cf0141086da591"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Drivers/LSM6DSV16X/source.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "52f595376a370f8512496ffa970bee6829412492078b924ba6b723079038e62e",
+    "published_sha256": "52f595376a370f8512496ffa970bee6829412492078b924ba6b723079038e62e"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/LICENSE",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "aad051480cdeeb76f01e0ce961600709b666719c2b349d95e7aca283032e07e3",
+    "published_sha256": "aad051480cdeeb76f01e0ce961600709b666719c2b349d95e7aca283032e07e3"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/MDK-ARM/EventRecorderStub.scvd",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c0bc76c307786ae399f79bf32d410f7d6c46e0ac1208cc882f60ac2649cba601",
+    "published_sha256": "c0bc76c307786ae399f79bf32d410f7d6c46e0ac1208cc882f60ac2649cba601"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/MDK-ARM/JLinkSettings.JLinkScript",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "86ba031a22efeaa8b28275fe97de8e31766399877fac85414de6c2e1c430e92c",
+    "published_sha256": "86ba031a22efeaa8b28275fe97de8e31766399877fac85414de6c2e1c430e92c"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/MDK-ARM/imu_to_dxl.sct",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "92c55641aa0be5c6c436feb30d83a564e67f356dffb7a82e35dcd35ca1c151cb",
+    "published_sha256": "92c55641aa0be5c6c436feb30d83a564e67f356dffb7a82e35dcd35ca1c151cb"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/MDK-ARM/imu_to_dxl.uvprojx",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f66d979d7dc2f525b39cc89ca0858c4d73673ab85192c18a42e8a9517ac9ed55",
+    "published_sha256": "f66d979d7dc2f525b39cc89ca0858c4d73673ab85192c18a42e8a9517ac9ed55"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/MDK-ARM/imu_to_dxl_jlink.uvprojx",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ad619064e1c95fbfe4583d0749ff3f376ccba2e9e6248710a65532ce94ffc4a1",
+    "published_sha256": "ad619064e1c95fbfe4583d0749ff3f376ccba2e9e6248710a65532ce94ffc4a1"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0bbcf491a5fb8845af72a830c11910e6c94bc2db96842b5f6663d940b95179c2",
+    "published_sha256": "368f61e8ee2652634d2fa9b84087123ab3d891c1032794071a283f7db0292b2e"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Startup/startup_stm32g031xx.s",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5552b01d0e2ad95f9f41ea2b81ff0fe72c1898e147d8c636bcf9650cf27dd18a",
+    "published_sha256": "5552b01d0e2ad95f9f41ea2b81ff0fe72c1898e147d8c636bcf9650cf27dd18a"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tests/bus_sim_shim.c",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "99092936e09e21f794d38caa1197baeac230647e74a503c58be31a1a263c5c5e",
+    "published_sha256": "99092936e09e21f794d38caa1197baeac230647e74a503c58be31a1a263c5c5e"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tests/bus_sim_test.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1697c31055bf25d550d4556a292d0d84b6a478992c715f93fabf6a9360b18985",
+    "published_sha256": "1697c31055bf25d550d4556a292d0d84b6a478992c715f93fabf6a9360b18985"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tests/control_table_test.c",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "acc62b4619b8dcc9adc93c3fe0c87fbd618abd42986b8469bf2c3497a2a9b1d7",
+    "published_sha256": "acc62b4619b8dcc9adc93c3fe0c87fbd618abd42986b8469bf2c3497a2a9b1d7"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tests/control_table_test.cmd",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "fa0bd4032459ed1a31635f68c259e7923289b6a84577e26fbd36533c8091bb0f",
+    "published_sha256": "fa0bd4032459ed1a31635f68c259e7923289b6a84577e26fbd36533c8091bb0f"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tests/imu_board/board.h",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "521ecbdf4179fe06af3f518285c4c5cd03071f031877f839c8642d49d8597eaa",
+    "published_sha256": "521ecbdf4179fe06af3f518285c4c5cd03071f031877f839c8642d49d8597eaa"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tests/imu_test.c",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5456aac0860974b4e2ecb0e4425ad946ee7dd23228b0af7b24a4291fe2f2da76",
+    "published_sha256": "5456aac0860974b4e2ecb0e4425ad946ee7dd23228b0af7b24a4291fe2f2da76"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tests/imu_test.cmd",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "6590ad1056473a92ef28ace130397c6a55220d693e1861455c7dd7068d056d9b",
+    "published_sha256": "6590ad1056473a92ef28ace130397c6a55220d693e1861455c7dd7068d056d9b"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tests/protocol_test.c",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1383bcbbd0430f138f7e291441f0a984167e4b40872404d9cfd9d0c80e1ba960",
+    "published_sha256": "1383bcbbd0430f138f7e291441f0a984167e4b40872404d9cfd9d0c80e1ba960"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tools/build.ps1",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4757dec034896f658cfb766a9483f879abded7d3866e7259588b9cb9ac8e64fb",
+    "published_sha256": "4757dec034896f658cfb766a9483f879abded7d3866e7259588b9cb9ac8e64fb"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tools/protocol_test.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "707669eddd17eafd58bb176796779ab1765bd4b300f16198057372bf84388048",
+    "published_sha256": "707669eddd17eafd58bb176796779ab1765bd4b300f16198057372bf84388048"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tools/requirements.txt",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0b81718d1cbe8a7696e45a9388c9205272b5e345cd79d0cf1ccfb7a9fd1925e9",
+    "published_sha256": "0b81718d1cbe8a7696e45a9388c9205272b5e345cd79d0cf1ccfb7a9fd1925e9"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/Tools/test.ps1",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1d8738be876019ab9962df31d97469150dd6cdbd51fe2eb25c254dbfc3a2f9ea",
+    "published_sha256": "1d8738be876019ab9962df31d97469150dd6cdbd51fe2eb25c254dbfc3a2f9ea"
+  },
+  {
+    "path": "hardware/imu_to_dxl/firmware/VALIDATION.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d0677a7427d5b44f5d7d6a0307a5603e7faffbb87235c338427b76b13f8879fc",
+    "published_sha256": "d0677a7427d5b44f5d7d6a0307a5603e7faffbb87235c338427b76b13f8879fc"
+  },
+  {
+    "path": "cad/print/upstream-FT-P2S-PLA-20260915.3mf",
+    "source": "fanhao375/microduck-replica-cad",
+    "commit": "749fcefb404a0750777d7cc8badfe30700df2f9b",
+    "upstream_sha256": "b6f34a8c033a65bc8966cf503374284cfb40c12458a43788ecca4ef4e192745b",
+    "published_sha256": "b6f34a8c033a65bc8966cf503374284cfb40c12458a43788ecca4ef4e192745b"
+  }
+]

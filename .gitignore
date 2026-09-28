@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+logs/
+artifacts/
+*.zip
+*.part
+*.SLDASM
+*.SLDPRT
+*.pt
+*.onnx
