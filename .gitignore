@@ -10,6 +10,7 @@ logs/
 artifacts/
 *.zip
 *.part
+!software/training/src/mjlab_microduck/robot/**/assets/*.part
 *.SLDASM
 *.SLDPRT
 *.pt
