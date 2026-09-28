@@ -21,6 +21,8 @@ SHA-256：
 
 ## 打印与装配资料
 
+- **[仓内装配安装说明书 PDF](assembly/microduck装配安装说明书.pdf)**：项目维护者于 2026-09-28 提供的文件，正文原样保存，首页有封面入口。SHA-256：`785fde2ee9ab4dd99cec2c198da84861f2833b1f93f61725634549a36e9cfd10`。它与先前归档的上游 PDF 字节不同，未将两者宣称为同一版本；内容差异未逐页比对。
+
 - [仓内上游 3MF](print/upstream-FT-P2S-PLA-20260915.3mf)：原版 P2S、PLA、2026-09-15 工程，不能视为 v2.1 全部 CAD 更新后的工程，更不能直接当作 PA6-CF/TPU 预设。
 - [装配 BOM](https://github.com/fanhao375/microduck-replica-cad/tree/749fcefb404a0750777d7cc8badfe30700df2f9b/BOM)。
 - [安装说明书](https://github.com/fanhao375/microduck-replica-cad/tree/749fcefb404a0750777d7cc8badfe30700df2f9b/安装说明书)。

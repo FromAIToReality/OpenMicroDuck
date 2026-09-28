@@ -4,6 +4,14 @@
 
 **当前版本是资料与代码基线整合，不是已经验证会走路的整机方案。** 不提供即插即用步态；不要直接将示例姿态、零位或策略用于真实机器人。
 
+## 装配安装说明书
+
+**[点击查看 microduck 装配安装说明书（PDF）](cad/assembly/microduck装配安装说明书.pdf)** · [下载 PDF](cad/assembly/microduck装配安装说明书.pdf?raw=true)
+
+<a href="cad/assembly/microduck装配安装说明书.pdf"><img src="cad/assembly/assembly-cover.png" alt="microduck 装配安装说明书封面，点击查看 PDF" width="320"></a>
+
+本次上传为项目维护者提供的 PDF 原文件，未修改正文；图纸与说明书作者署名及许可见[机械资料说明](cad/README.md)。装配时请结合飞特 HD1910 实际零件核对，不代表已验证全部装配适配。
+
 ## 开发进展与 DIY 交流
 
 我们正在启动飞特 **HD1910 舵机专用 HAT 扩展板**的开发，围绕 Radxa ZERO 3W 主控，规划舵机通信、供电和 IMU 接口，电池供电部分采用 **FB-NP-F550-B20 单供电板**。目前处于方案设计阶段，重点考虑好安装、好接线、方便调试，后续会逐步分享设计与测试进展。
@@ -21,6 +29,7 @@
 | 需要什么 | 入口 |
 |---|---|
 | **完整技术资料：采购、接线、装配、系统与调试** | **[技术资料导航](docs/资料导航.md)** |
+| **装配安装说明书 PDF** | **[直接查看／下载](cad/assembly/microduck装配安装说明书.pdf)** |
 | 硬件现状与缺项 | [硬件清单与边界](docs/hardware.md) |
 | 舵机网页调试候选工具 | [servo-web](tools/servo-web/README.md)，先看[安全与验证状态](docs/status.md) |
 | 飞特训练基线 | [HD1910 训练说明](software/training/docs/hd1910-baseline.md) |
