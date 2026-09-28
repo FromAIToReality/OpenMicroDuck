@@ -12,6 +12,8 @@
 
 逐文件来源、导入前后 SHA-256 见 [导入清单](provenance/import-manifest.json)。来自上游的代码没有被重新命名成我们的原创算法；此次主要工作是筛选、去重、组织资料、连接下载和标注验证边界。
 
+2026-09-28 补充导入同一固定版本的技术参考文档、装配/接线图片与辅助工具；来源、原始及发布哈希见 [补充清单](provenance/reference-import-manifest.json)。正文仍为上游作者记录，新增提示区分本项目和上游验证范围。未导入的独立 PCB 设计文件及大型系统镜像保留上游下载入口。
+
 ## 参考但未导入
 
 [JoyandAI/OpenMicroDuck](https://github.com/JoyandAI/OpenMicroDuck/tree/eb0eabb98b591fa9f9176b013cc0a67ca30ae847) 用作架构、BOM 和结构参考。其 README 与 LICENSE 对图纸许可的表述存在差异，本次不导入该项目图纸；标准 Apache/CC 许可证全文副本不是导入其设计。

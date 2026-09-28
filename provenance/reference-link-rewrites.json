@@ -1,0 +1,122 @@
+[
+  {
+    "file": "BOM.en.md",
+    "before": "print/",
+    "after": "https://github.com/fanhao375/microduck-replica/tree/a23f4c18a4741a3cde5257e639960ea37bbadd8d/print",
+    "source_target_exists": true
+  },
+  {
+    "file": "BOM.en.md",
+    "before": "print/变体-轮滑/",
+    "after": "https://github.com/fanhao375/microduck-replica/tree/a23f4c18a4741a3cde5257e639960ea37bbadd8d/print/%E5%8F%98%E4%BD%93-%E8%BD%AE%E6%BB%91",
+    "source_target_exists": true
+  },
+  {
+    "file": "BOM.md",
+    "before": "print/README.md",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/print/README.md",
+    "source_target_exists": true
+  },
+  {
+    "file": "BOM.md",
+    "before": "print/",
+    "after": "https://github.com/fanhao375/microduck-replica/tree/a23f4c18a4741a3cde5257e639960ea37bbadd8d/print",
+    "source_target_exists": true
+  },
+  {
+    "file": "BOM.md",
+    "before": "print/变体-轮滑/",
+    "after": "https://github.com/fanhao375/microduck-replica/tree/a23f4c18a4741a3cde5257e639960ea37bbadd8d/print/%E5%8F%98%E4%BD%93-%E8%BD%AE%E6%BB%91",
+    "source_target_exists": true
+  },
+  {
+    "file": "docs/actuator-selection.en.md",
+    "before": "社区动态.md",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/docs/%E7%A4%BE%E5%8C%BA%E5%8A%A8%E6%80%81.md",
+    "source_target_exists": true
+  },
+  {
+    "file": "docs/执行器选型.md",
+    "before": "社区动态.md",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/docs/%E7%A4%BE%E5%8C%BA%E5%8A%A8%E6%80%81.md",
+    "source_target_exists": true
+  },
+  {
+    "file": "docs/机械采购清单.md",
+    "before": "../print/README.md",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/print/README.md",
+    "source_target_exists": true
+  },
+  {
+    "file": "docs/机械采购清单.md",
+    "before": "../PROGRESS.md",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/PROGRESS.md",
+    "source_target_exists": true
+  },
+  {
+    "file": "docs/电控采购清单.md",
+    "before": "../print/README.md",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/print/README.md",
+    "source_target_exists": true
+  },
+  {
+    "file": "docs/硬件规格速查.md",
+    "before": "../print/README.md",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/print/README.md",
+    "source_target_exists": true
+  },
+  {
+    "file": "hardware/imu_to_dxl/README.md",
+    "before": "imu_to_dxl-原理图.pdf",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/hardware/imu_to_dxl/imu_to_dxl-%E5%8E%9F%E7%90%86%E5%9B%BE.pdf",
+    "source_target_exists": true
+  },
+  {
+    "file": "hardware/imu_to_dxl/README.md",
+    "before": "imu_to_dxl-交互式BOM.html",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/hardware/imu_to_dxl/imu_to_dxl-%E4%BA%A4%E4%BA%92%E5%BC%8FBOM.html",
+    "source_target_exists": true
+  },
+  {
+    "file": "hardware/imu_to_dxl/README.md",
+    "before": "imu_to_dxl.eprj2",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/hardware/imu_to_dxl/imu_to_dxl.eprj2",
+    "source_target_exists": true
+  },
+  {
+    "file": "hardware/imu_to_dxl/imu_to_dxl-接线表.md",
+    "before": "imu_to_dxl-原理图.pdf",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/hardware/imu_to_dxl/imu_to_dxl-%E5%8E%9F%E7%90%86%E5%9B%BE.pdf",
+    "source_target_exists": true
+  },
+  {
+    "file": "tools/FeeTech_HD1910M_Servo/README.md",
+    "before": "HD-1910-C001串型规格书20260907.pdf",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/tools/FeeTech_HD1910M_Servo/HD-1910-C001%E4%B8%B2%E5%9E%8B%E8%A7%84%E6%A0%BC%E4%B9%A620260907.pdf",
+    "source_target_exists": true
+  },
+  {
+    "file": "tools/FeeTech_HD1910M_Servo/README.md",
+    "before": "HL-2915-C002串型规格书20260227.pdf",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/tools/FeeTech_HD1910M_Servo/HL-2915-C002%E4%B8%B2%E5%9E%8B%E8%A7%84%E6%A0%BC%E4%B9%A620260227.pdf",
+    "source_target_exists": true
+  },
+  {
+    "file": "调试记录.md",
+    "before": "assets/首次上电-2026-09-18.mp4",
+    "after": "https://github.com/fanhao375/microduck-replica/blob/a23f4c18a4741a3cde5257e639960ea37bbadd8d/assets/%E9%A6%96%E6%AC%A1%E4%B8%8A%E7%94%B5-2026-09-18.mp4",
+    "source_target_exists": true
+  },
+  {
+    "file": "调试记录.md",
+    "before": "tools/飞特/",
+    "after": "https://github.com/fanhao375/microduck-replica/tree/a23f4c18a4741a3cde5257e639960ea37bbadd8d/tools/%E9%A3%9E%E7%89%B9",
+    "source_target_exists": true
+  },
+  {
+    "file": "调试记录.md",
+    "before": "tools/飞特/",
+    "after": "https://github.com/fanhao375/microduck-replica/tree/a23f4c18a4741a3cde5257e639960ea37bbadd8d/tools/%E9%A3%9E%E7%89%B9",
+    "source_target_exists": true
+  }
+]

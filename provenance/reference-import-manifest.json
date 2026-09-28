@@ -1,0 +1,625 @@
+[
+  {
+    "path": "BOM.en.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b63c691f0a5bbc207da14545ea9949e91c180bc42ccd79a73733463ca5aea6ef",
+    "published_sha256": "a164f0000ef697bca31917eeb1e780d97517b99ee185a6862f071cca61e124b7"
+  },
+  {
+    "path": "BOM.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a7d009fa07a75b801a2a5b69bfea2d0a65a1bdde04ea74b1dec2e523e2ea5aa5",
+    "published_sha256": "228a5e97794ca92186de2b993a9b3adef1b75b1072c7e23817e9bfeb8153312b"
+  },
+  {
+    "path": "BUILD-LOG.en.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "182086f8826da0093750f110a9eabb3d1b9ffe017586641bb2a3293513acd40e",
+    "published_sha256": "4d5637d1ce84f6836e017b4d9a34ab6a9b9a8e036dcc2e0c6c30e6d1c38442e8"
+  },
+  {
+    "path": "assembly-drawings/01_正面.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "fd1277c274d747ac2c49fbdef6630a9076f218778c6262a2953ea10695411f4d",
+    "published_sha256": "fd1277c274d747ac2c49fbdef6630a9076f218778c6262a2953ea10695411f4d"
+  },
+  {
+    "path": "assembly-drawings/02_侧面.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "8a3649c395c65ebe6ea0e2d1c9b3faad2d93d7d650296e09caf0320f813d8e00",
+    "published_sha256": "8a3649c395c65ebe6ea0e2d1c9b3faad2d93d7d650296e09caf0320f813d8e00"
+  },
+  {
+    "path": "assembly-drawings/03_背面.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f84bd8ee480111b8a09608b241aeaf394d1aad52b6007a6b14300fb407e8dd77",
+    "published_sha256": "f84bd8ee480111b8a09608b241aeaf394d1aad52b6007a6b14300fb407e8dd77"
+  },
+  {
+    "path": "assembly-drawings/04_四分之三.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5ec79926764d7e68f63cf58ac8d00100e8626678ffb2e62eb9a60104ebbe317c",
+    "published_sha256": "5ec79926764d7e68f63cf58ac8d00100e8626678ffb2e62eb9a60104ebbe317c"
+  },
+  {
+    "path": "assembly-drawings/05_爆炸图_侧面.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "3bbf70d6033264d0f2fbcf6b38c38a9a7223d91f2c4da945b51c6e457ac179bb",
+    "published_sha256": "3bbf70d6033264d0f2fbcf6b38c38a9a7223d91f2c4da945b51c6e457ac179bb"
+  },
+  {
+    "path": "assembly-drawings/06_爆炸图_四分之三.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ee0ecd7492dcfde418c90f76593a6fa5172b730eabc99f85316ab2d6c5a016d7",
+    "published_sha256": "ee0ecd7492dcfde418c90f76593a6fa5172b730eabc99f85316ab2d6c5a016d7"
+  },
+  {
+    "path": "assembly-drawings/07_分色对照_装配态.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ff7f5402e44ab95ccccaafab660a9199e479e2ce3711b3af8d6b7e1485818f42",
+    "published_sha256": "ff7f5402e44ab95ccccaafab660a9199e479e2ce3711b3af8d6b7e1485818f42"
+  },
+  {
+    "path": "assets/cad-solidworks-装配体.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4fa8f9a5040465d79d67e552bd889f12f29f10adfb4be4896b9903dcbaf454c6",
+    "published_sha256": "4fa8f9a5040465d79d67e552bd889f12f29f10adfb4be4896b9903dcbaf454c6"
+  },
+  {
+    "path": "assets/flash/烧卡-1-Rufus问更新-点否.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5f2d7569112ed621d0b70689a0b7de1737c0570a9696403f7673bb06eb52ac0a",
+    "published_sha256": "5f2d7569112ed621d0b70689a0b7de1737c0570a9696403f7673bb06eb52ac0a"
+  },
+  {
+    "path": "assets/flash/烧卡-2-设备自动选中-点选择.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b0c5104d9d377ee220b9bcb5914a9e47b8d47098e5e356f5ecd1d19ac1662511",
+    "published_sha256": "b0c5104d9d377ee220b9bcb5914a9e47b8d47098e5e356f5ecd1d19ac1662511"
+  },
+  {
+    "path": "assets/flash/烧卡-3-正在写入.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "148b77074f7ead08fb2f98369354c778fef44bf6854343939c9bd70fbc52ab1b",
+    "published_sha256": "148b77074f7ead08fb2f98369354c778fef44bf6854343939c9bd70fbc52ab1b"
+  },
+  {
+    "path": "assets/flash/烧卡-4-完成-准备就绪.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "8cdacff781e7bfd7ee964a51658dfbaa14147b4613d54397de2759888556344c",
+    "published_sha256": "8cdacff781e7bfd7ee964a51658dfbaa14147b4613d54397de2759888556344c"
+  },
+  {
+    "path": "assets/hw/01-物理布局.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b1d9ae0a2ce1db69c0d33249f65ee6bb2af5d5a593398e077343eb24ddc58957",
+    "published_sha256": "b1d9ae0a2ce1db69c0d33249f65ee6bb2af5d5a593398e077343eb24ddc58957"
+  },
+  {
+    "path": "assets/hw/02-电源分配.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "946453edcf55d0606b13ad6042d54625740d1adb36fb808ff612917fbc7b3240",
+    "published_sha256": "946453edcf55d0606b13ad6042d54625740d1adb36fb808ff612917fbc7b3240"
+  },
+  {
+    "path": "assets/hw/02b-供电与保护.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "bc3396b11463fb7abb75100dafd44c4c3d2b9455b0ad32699a02e76e9d3ac6d8",
+    "published_sha256": "bc3396b11463fb7abb75100dafd44c4c3d2b9455b0ad32699a02e76e9d3ac6d8"
+  },
+  {
+    "path": "assets/hw/03-总线拓扑.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d315e51c0d50f18654b5d9b4521d76a3d11f5c23a72f7a0909dd6fa75ca9b17d",
+    "published_sha256": "d315e51c0d50f18654b5d9b4521d76a3d11f5c23a72f7a0909dd6fa75ca9b17d"
+  },
+  {
+    "path": "assets/hw/04-控制周期.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "67a0d80cbd4b296eee6519bfb39a1eb70064407df058255ab7a7dbedb2214bb2",
+    "published_sha256": "67a0d80cbd4b296eee6519bfb39a1eb70064407df058255ab7a7dbedb2214bb2"
+  },
+  {
+    "path": "assets/hw/05-IMU板内部.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "24e4960795c81d161b7bd92f499c698f222389115b4ea0a315e19452fc196042",
+    "published_sha256": "24e4960795c81d161b7bd92f499c698f222389115b4ea0a315e19452fc196042"
+  },
+  {
+    "path": "assets/hw/06-总线时序对比.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f840c6f17bb26b26cce34d024f695bc7a0c3bf3f35ab07c99fca172ad9898049",
+    "published_sha256": "f840c6f17bb26b26cce34d024f695bc7a0c3bf3f35ab07c99fca172ad9898049"
+  },
+  {
+    "path": "assets/hw/Microduck硬件图集.pdf",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "aad8b22a0b156a546b6839a61ce00f9b6b5973b563c453d175fb0bf16ce4cd5a",
+    "published_sha256": "aad8b22a0b156a546b6839a61ce00f9b6b5973b563c453d175fb0bf16ce4cd5a"
+  },
+  {
+    "path": "assets/hw/imu_to_dxl-PCB.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "128e7b83f04a8895f170cecac1060abaafa4e4219280bdfb615129e89d0f0523",
+    "published_sha256": "128e7b83f04a8895f170cecac1060abaafa4e4219280bdfb615129e89d0f0523"
+  },
+  {
+    "path": "assets/hw/imu_to_dxl-原理图.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2f578154885d52cb33e24eb3d45aade5d7b1f17be29e22fac3bf870942bebfa5",
+    "published_sha256": "2f578154885d52cb33e24eb3d45aade5d7b1f17be29e22fac3bf870942bebfa5"
+  },
+  {
+    "path": "assets/hw/不打HAT-接线图.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a088c4b5113ffc493cf2b33828705e6530fbb55f0f9ea6b906c9bbdc746c9c8d",
+    "published_sha256": "a088c4b5113ffc493cf2b33828705e6530fbb55f0f9ea6b906c9bbdc746c9c8d"
+  },
+  {
+    "path": "assets/servo-web.png",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c16c37adf8f256922430383f9b49721eeca04096d5e134677e5ffc4760c86bfb",
+    "published_sha256": "c16c37adf8f256922430383f9b49721eeca04096d5e134677e5ffc4760c86bfb"
+  },
+  {
+    "path": "assets/首次上电-2026-09-18.jpg",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "dca05b781e996fdbc617cc899d6683bd6b5b3d511dd955fa2ddc30501edbaa64",
+    "published_sha256": "dca05b781e996fdbc617cc899d6683bd6b5b3d511dd955fa2ddc30501edbaa64"
+  },
+  {
+    "path": "assets/首次上电-站起来.gif",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "6aecb781bfd125b0f4b927f52b968e32672904addffaff8a4101a93690cadeb0",
+    "published_sha256": "6aecb781bfd125b0f4b927f52b968e32672904addffaff8a4101a93690cadeb0"
+  },
+  {
+    "path": "build-log/photos/2026-09-02-首批打印件.jpg",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "6a6ba801ecdc25279f6f4831a2c00f0e64685c3178fb8fa89f98b57a46d4418c",
+    "published_sha256": "6a6ba801ecdc25279f6f4831a2c00f0e64685c3178fb8fa89f98b57a46d4418c"
+  },
+  {
+    "path": "build-log/photos/2026-09-13-飞特版装机-手持.jpg",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2521e811a575bd5d19b7c3804dc90134862a019e11f316111d3d57580e268ddf",
+    "published_sha256": "2521e811a575bd5d19b7c3804dc90134862a019e11f316111d3d57580e268ddf"
+  },
+  {
+    "path": "build-log/photos/2026-09-13-飞特版装机-正面.jpg",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "8f75815c0797e651df9cf600dfbe1bfef87d82e45b097b4b2dc720d84499daa6",
+    "published_sha256": "8f75815c0797e651df9cf600dfbe1bfef87d82e45b097b4b2dc720d84499daa6"
+  },
+  {
+    "path": "docs/HD-1910-M6参数来源.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "29f4bba0682ba8b83152bb8ea7db084276cbf6234062a830a1d80d1df7978792",
+    "published_sha256": "30441c1716325daf4acc86d74108006840b238671c5c4c3554d7050844f22220"
+  },
+  {
+    "path": "docs/HD-1910训练前数据清单.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2a5d2f964c3022aa8169038bb0f7c0fc62ad35dfc11faddb4220e5d2a2cb6dec",
+    "published_sha256": "7f543ee2e342144dcf11bc04e4e8dd584e0ef18d2f0bec62532dbbcec482924e"
+  },
+  {
+    "path": "docs/actuator-selection.en.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c65230d606c884392b42488df2179d2035fc01c715097b05c9d81ec056b7c7a3",
+    "published_sha256": "872173ceba476dd475ad0de4febc4a2d6ee6dc9c29e8c34da39f0ec162a3bb94"
+  },
+  {
+    "path": "docs/fastener-reconstruction.en.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "afd7d73b2c83442348fa0d76c20c2ef2e33b47dc78e804535e38e275f4fdd561",
+    "published_sha256": "f8a0148ac0e5a15ff5fa4afd46f6843c71e19ca97eb0e5486c101768f32e4ba6"
+  },
+  {
+    "path": "docs/hardware-teardown.en.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "512358c4abc562c4d30311c83f0c36b20de75fa96f817e7a39d8db85d9e02b3e",
+    "published_sha256": "47b81afde9dbb6c93090400f03b2bf8d87a2efebe699d69878d006f882281c8e"
+  },
+  {
+    "path": "docs/hole_analysis.json",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5b10f7421d3f2620d7b5710b040097bc0bce924e3aacf9f556beeaa4689af0f7",
+    "published_sha256": "5b10f7421d3f2620d7b5710b040097bc0bce924e3aacf9f556beeaa4689af0f7"
+  },
+  {
+    "path": "docs/不打HAT-接线图.html",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "14aa4c423acd9c29601f80a118121abaedc82cfef557ed87a1f1cdb96aaddd09",
+    "published_sha256": "14aa4c423acd9c29601f80a118121abaedc82cfef557ed87a1f1cdb96aaddd09"
+  },
+  {
+    "path": "docs/不打HAT.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "49d6cb4b1e3e51dc34f83c7a0febe964f4580cd6ff60e793fbc7f8769d24fe92",
+    "published_sha256": "e7093af8a4dd7f52045fdf77bd50307c0df2d6c9c9d046b9106a4fb510da46ca"
+  },
+  {
+    "path": "docs/执行器选型.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "b2ba304a4a4a66728a1e9ea677e9e03deab203f5466748c1c906b59cb41068e9",
+    "published_sha256": "306a0efea52458c611704c4977385de35b791bf715a218f0fec2790dbebf53ef"
+  },
+  {
+    "path": "docs/机械采购清单.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f8bfbe901976fdbdffbd292995df6bf0e7769bcb8ff186841b81c918be158b7d",
+    "published_sha256": "896edcf53c65ac04956ffa9ee0f269cca6375816149a67523464123adcf86996"
+  },
+  {
+    "path": "docs/电控采购清单.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "98f64d11d86295a471fc0cd0f384e46b7aeb16e3e70cd230eff98e0a1aebbe47",
+    "published_sha256": "8a6afa3fc47f818ace4a917539a3ecfbf7f9e1b4ca4918744da19538b3ec29a3"
+  },
+  {
+    "path": "docs/硬件入门.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f15557f077b34f1879225564519b786076984fec405d76625c5a56db87e8a62c",
+    "published_sha256": "345dd92ff6007fc6af77573c707886bbc8037b56bd177e76682b20e59d47bfb9"
+  },
+  {
+    "path": "docs/硬件方案逆向.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "017079b46c2915648b091dc29adf1ace1094cbc1e9fda8af5a37d74b056cc5dd",
+    "published_sha256": "3c9f7735bf243d695be9b7973d230f24f986cf84c9edc013d35dea2773063b52"
+  },
+  {
+    "path": "docs/硬件规格速查.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "252299ee04d00cef4b0cc5d7ae2f62d675177d65ecb8617ce9b55ba9c96d8f7f",
+    "published_sha256": "acf39dea8f682dfb550d59af1f175dc8f9002db2622071f68b3b639a5f2b0fa6"
+  },
+  {
+    "path": "docs/紧固件反推.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7ff9b638db6eaa69d403464b2f06f088d5edaa734ea505ae0703dab48ff72297",
+    "published_sha256": "2eebcc0dba33a20c972d43c026c430e380f33c8e0637af9999aa64b5cfb76abd"
+  },
+  {
+    "path": "docs/飞特资料/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f17028107f976b520bdbb077c77cf26e515ae7758f7c6892304278d97af50851",
+    "published_sha256": "26db5325a10d193b10aa739cdfab64e83cb5953a2cffced6fdcdab7645e55bb6"
+  },
+  {
+    "path": "docs/飞特资料/SCS通信协议-v1.0-2026-06-09.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "9883a154bf29f098d242b03d75cfc0a1a820057aebe4dfda5e5c4fd16e4940c0",
+    "published_sha256": "9b972c3787e6bac7e8fb27980622ed56625790e184707dfa3247feba3580e056"
+  },
+  {
+    "path": "docs/飞特资料/磁编码SMS&STS&HTS-十六进制指令生成表-250508.xlsx",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e4c050997562340147593d3d17f6620ec09de9785dcfc699789b71aafd7b85d6",
+    "published_sha256": "e4c050997562340147593d3d17f6620ec09de9785dcfc699789b71aafd7b85d6"
+  },
+  {
+    "path": "docs/飞特资料/磁编码SMS内存表手册-v1.1-2026-08-27.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "a8fa0432d3f7db3a32cfdd5f316e83911bcced0e4db58346d63199f36e140fae",
+    "published_sha256": "01b785697f3e1b4ba9a5d846d7ca95f688b875fd5a06b9db7d38745864ec4814"
+  },
+  {
+    "path": "docs/飞特资料/磁编码STS内存表手册-v1.1-2026-08-27.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "bfc2d2fe02ca2164e822f0cfc3a0a858cea8b45e72fdf6ccdf0322c1be9c0ab0",
+    "published_sha256": "ee03dfb2646d2ccd6e382ce9ec4d0424abe16f727e73535371dc2a96283dff50"
+  },
+  {
+    "path": "hardware/imu_to_dxl/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "30cb21e7a7999017c7c742feb20a6583017161b96d88fab2d1e300b6036a54d7",
+    "published_sha256": "2f84331bddbde81d6ab4f0e444ff40db577b9154d4ae8a551a71760bd695751b"
+  },
+  {
+    "path": "hardware/imu_to_dxl/imu_to_dxl-接线表.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "67c836daacd84f35e1d43d2b66a316f9e74815b59fba04e7e8bc0279b335c3ae",
+    "published_sha256": "a6200f6fd8cfc689f30c62524055767f23e9e23db53aebe212e352948f889126"
+  },
+  {
+    "path": "hardware/imu_to_dxl/总线协议.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "72277360f0e8262ae4529b9f745f0988b5f95a23177fe05680e0d6bc2b5f2be5",
+    "published_sha256": "924bcc554c1c3fb3e1202c6631877e34f0e6ab7356146ee16bdfa754cecec4ea"
+  },
+  {
+    "path": "scripts/analyze_holes.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ca0c8bdcba5969fabbb10689daf7005f47c789c967aacae247005eef58b0908a",
+    "published_sha256": "ca0c8bdcba5969fabbb10689daf7005f47c789c967aacae247005eef58b0908a"
+  },
+  {
+    "path": "scripts/export_assembly_stl.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "724ee6179e02e2903d7bb28818a122d51548c13174c7f78f640f17b09399103b",
+    "published_sha256": "724ee6179e02e2903d7bb28818a122d51548c13174c7f78f640f17b09399103b"
+  },
+  {
+    "path": "scripts/fetch_upstream.sh",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "95e4edcc486bc0f4843471643b61430d901d234cf41e4e98a23378d0da3902d2",
+    "published_sha256": "95e4edcc486bc0f4843471643b61430d901d234cf41e4e98a23378d0da3902d2"
+  },
+  {
+    "path": "scripts/render_assembly.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "04ac965d395c2f1bb6444d87d517bd33c3c1a59795086e9d09e0ae55bee8ba40",
+    "published_sha256": "04ac965d395c2f1bb6444d87d517bd33c3c1a59795086e9d09e0ae55bee8ba40"
+  },
+  {
+    "path": "software/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "79e8e8e9b7edb3bd18e7b0c0998f761dc0ae927e5ecd62375e6e7d4a8c2d855f",
+    "published_sha256": "cbae73e0147fd40b002d1ccbed728cc20062f42c2ae38c1179a63f8a582289a1"
+  },
+  {
+    "path": "software/飞特适配架构.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2080819c1437938fb039b0d57b49ed54c829859bee6275bb6528b8d3825fc499",
+    "published_sha256": "044d7eb91ccb9ab54baf3e8b51c60a328022eea9265ce78e64b0664fd097ab47"
+  },
+  {
+    "path": "tools/FeeTech_HD1910M_Servo/.gitignore",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "306fd52e74fca6746e12acc750f232de15e71da917756a1270d74c91f5eb7368",
+    "published_sha256": "306fd52e74fca6746e12acc750f232de15e71da917756a1270d74c91f5eb7368"
+  },
+  {
+    "path": "tools/FeeTech_HD1910M_Servo/Cargo.lock",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "8fc3f7a0b37f6b6b0c22e016fb9dac16c6f5ff6ee492ca67d625efb2dcaf6838",
+    "published_sha256": "8fc3f7a0b37f6b6b0c22e016fb9dac16c6f5ff6ee492ca67d625efb2dcaf6838"
+  },
+  {
+    "path": "tools/FeeTech_HD1910M_Servo/Cargo.toml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c2eadbc40ec2bddde65a3692cd6d3a454624feb06f72c36358e2463fa33fbeb9",
+    "published_sha256": "c2eadbc40ec2bddde65a3692cd6d3a454624feb06f72c36358e2463fa33fbeb9"
+  },
+  {
+    "path": "tools/FeeTech_HD1910M_Servo/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "0dfc99210395eb9ca8bd2272d9d6cb6a8345c6f1162b8660ec8dbfc4456cf2e1",
+    "published_sha256": "446219673bab503a85e09b7c4c0e64b700cf61f5e1d554e71c1397426fcfe606"
+  },
+  {
+    "path": "tools/FeeTech_HD1910M_Servo/TUTORIAL.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "f4f1148cb45f71330b4e08152138ead9a300546568f68a3d62eb4de806a562b9",
+    "published_sha256": "b3b51e71320ca13fc2220b43f9daa05137fb323b93b82e8c4a0dd86af38c59e9"
+  },
+  {
+    "path": "tools/FeeTech_HD1910M_Servo/src/error.rs",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "259b48129f32801b9e682114732cfedd22f50b7f98fe3b6d027d82309a2c5165",
+    "published_sha256": "259b48129f32801b9e682114732cfedd22f50b7f98fe3b6d027d82309a2c5165"
+  },
+  {
+    "path": "tools/FeeTech_HD1910M_Servo/src/lib.rs",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "5eca6c9d68f18547b2bc015723c3be01ce3d6e905ab07ae02903f57536600ea7",
+    "published_sha256": "5eca6c9d68f18547b2bc015723c3be01ce3d6e905ab07ae02903f57536600ea7"
+  },
+  {
+    "path": "tools/FeeTech_HD1910M_Servo/src/main.rs",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "61adaf3a19355257faa176c133037c2877a471dae00d0bcc2efa121a07725985",
+    "published_sha256": "61adaf3a19355257faa176c133037c2877a471dae00d0bcc2efa121a07725985"
+  },
+  {
+    "path": "tools/FeeTech_HD1910M_Servo/src/protocol.rs",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d05fca43146bdc73f2be8f1f1645f69ddbe4c4473a5c136c80975e54595bf5a5",
+    "published_sha256": "d05fca43146bdc73f2be8f1f1645f69ddbe4c4473a5c136c80975e54595bf5a5"
+  },
+  {
+    "path": "tools/FeeTech_HD1910M_Servo/src/registers.rs",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "d35047414f4473c48182f7e5234ad827d727e8df5726df6ee4f25922eaf81a10",
+    "published_sha256": "d35047414f4473c48182f7e5234ad827d727e8df5726df6ee4f25922eaf81a10"
+  },
+  {
+    "path": "tools/FeeTech_HD1910M_Servo/src/servo.rs",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "aa8555757bed87a7a624d94d900a6933a96a19269ce2d4cb995b22eb61793fc9",
+    "published_sha256": "aa8555757bed87a7a624d94d900a6933a96a19269ce2d4cb995b22eb61793fc9"
+  },
+  {
+    "path": "tools/fold_contact/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c5ac9dda673ff6cb74a02a73c2406fbfd1b026718d0d43f2a0965256287e2487",
+    "published_sha256": "0059891fc61ce3618ec1949585e586081df775f508c37759a6d1cb3efed0fa5c"
+  },
+  {
+    "path": "tools/fold_contact/fold_contact.py",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "643ecb583be296e4e2a5fa459fc564b63bdca6190cf157ef68673a2b9101944b",
+    "published_sha256": "643ecb583be296e4e2a5fa459fc564b63bdca6190cf157ef68673a2b9101944b"
+  },
+  {
+    "path": "tools/radxa/1-做卡.ps1",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7fac00a651ad3536d966feb7ca4b9dd89cb7aa33b42c70b4c4abf66cda912a12",
+    "published_sha256": "7fac00a651ad3536d966feb7ca4b9dd89cb7aa33b42c70b4c4abf66cda912a12"
+  },
+  {
+    "path": "tools/radxa/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "da0f6ec2475c3354526b1a427c9c6a462a304160370905ebde3dbf125e72738b",
+    "published_sha256": "3087d10808aa8d8b507ac551d466a5068951df723199174b219ea48fea46d33c"
+  },
+  {
+    "path": "tools/radxa/build-armbian-card.sh",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "bdf83408c65f309176c31adbd8965641aa0e6e7a5f5066d4f19c85f1ada390b8",
+    "published_sha256": "bdf83408c65f309176c31adbd8965641aa0e6e7a5f5066d4f19c85f1ada390b8"
+  },
+  {
+    "path": "tools/radxa/card.conf",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "81fd32d6b2fb197579311696fd589374271b3725cdaa52d7bc0f111c0c385195",
+    "published_sha256": "81fd32d6b2fb197579311696fd589374271b3725cdaa52d7bc0f111c0c385195"
+  },
+  {
+    "path": "tools/radxa/镜像使用说明.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "cf28fd53038d4950164be15a4a9dbab446643eb01e38f150273cb14b7d02af12",
+    "published_sha256": "14ddffb3d7336c0ddb6d20c640300bcfda7d2891be52c5d5a872fd77e459ace7"
+  },
+  {
+    "path": "tools/stl_viewer.html",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "1c86bd2957d39e64207db6a8cb8d9f3fd33fa90e6a0fd0633c6284f16954d0d1",
+    "published_sha256": "1c86bd2957d39e64207db6a8cb8d9f3fd33fa90e6a0fd0633c6284f16954d0d1"
+  },
+  {
+    "path": "tools/sts3215Servo_testtool/.gitignore",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "4f0944189d5358b284a34108aa30a63556e6f5b60ad36482b740159b5399a662",
+    "published_sha256": "4f0944189d5358b284a34108aa30a63556e6f5b60ad36482b740159b5399a662"
+  },
+  {
+    "path": "tools/sts3215Servo_testtool/Cargo.lock",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "c3c28b9d649608ee817b4e671ae2fc86082d9b4afac2913e7a0a1dfca9236023",
+    "published_sha256": "c3c28b9d649608ee817b4e671ae2fc86082d9b4afac2913e7a0a1dfca9236023"
+  },
+  {
+    "path": "tools/sts3215Servo_testtool/Cargo.toml",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "10a828e75b2242e785ccdfddc221d58f7d8751906bd73426a1cc5f346e772666",
+    "published_sha256": "10a828e75b2242e785ccdfddc221d58f7d8751906bd73426a1cc5f346e772666"
+  },
+  {
+    "path": "tools/sts3215Servo_testtool/README.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "2e4f74224ca96c01ee190cc120fe32bccc044949c2c11d435f3b864dca792fca",
+    "published_sha256": "624d76fa82e36728ecb2ae33f9d0a870172a28bc505da4dc31cbf0115898d756"
+  },
+  {
+    "path": "tools/sts3215Servo_testtool/src/main.rs",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "dc39e911f81ed4d76c5a6b956db055f7ec1c0b891c686e4cb9257f8d238d5f88",
+    "published_sha256": "dc39e911f81ed4d76c5a6b956db055f7ec1c0b891c686e4cb9257f8d238d5f88"
+  },
+  {
+    "path": "tools/sts3215Servo_testtool/src/sts.rs",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "66032ee97da39703858b6e218cce5540a2c745507799e538ec71d5827ff0144e",
+    "published_sha256": "66032ee97da39703858b6e218cce5540a2c745507799e538ec71d5827ff0144e"
+  },
+  {
+    "path": "构建日志.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "e834a37452a010169f63965c61cc498f4f90101acdeb3e496d561b1d48033268",
+    "published_sha256": "6c297d10bfcd542d170ddad27f0ceeb5eca0e3ce307a0d526e53d8693a33e9ff"
+  },
+  {
+    "path": "调试记录.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "7815bd8d835ab24c50ac872ccb89459763c47bcf655191c522343dad2413fba9",
+    "published_sha256": "61c325d04cc61044703b9a140ebf04d06d5d9a9d2829dd4eb502d03ddb22565f"
+  },
+  {
+    "path": "踩坑记录.md",
+    "source": "fanhao375/microduck-replica",
+    "commit": "a23f4c18a4741a3cde5257e639960ea37bbadd8d",
+    "upstream_sha256": "ec6d1f30611f0c6168d8c54d3c7ad0f497833185053bc6f03b478b6d7cb54b88",
+    "published_sha256": "3483869faadbb0611ff44bda7efecf4a8077fc2895fd4453f0eadbdb8895f0b7"
+  }
+]

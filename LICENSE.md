@@ -2,6 +2,8 @@
 
 这是混合来源仓库，不能将全部内容视为统一的 Apache 或 MIT 项目。
 
+补充技术资料沿用上游根 LICENSE 的边界：根目录参考记录、`docs/` 中上游文档、`assembly-drawings/`、`assets/` 中上游技术图片、`build-log/` 照片按 CC BY-NC-SA 4.0；`scripts/`、`tools/` 原作者工具代码按 Apache-2.0（如子目录另有声明则按其声明）。上游实物照片归其参与者，不是 FromAIToReality 拍摄。厂商资料的原有来源说明保留，不对第三方内容扩大授权。
+
 - `software/training/`：代码、参数和相应文档遵循其 [Apache-2.0](software/training/LICENSE)；其中 Microduck 模型及网格保留上游 CC BY-NC-SA 4.0 条件，见 [UPSTREAM](software/training/UPSTREAM.md)。
 - `tools/servo-web/`：代码沿用 fanhao375 的 Apache-2.0 说明；该工具文档沿用其 CC BY-NC-SA 4.0；派生机器人模型不因与软件放在一起而变成 Apache 许可。
 - `hardware/imu_to_dxl/firmware/`：固件根目录 [MIT 许可证](hardware/imu_to_dxl/firmware/LICENSE)及 Drivers 等子目录第三方许可证各自适用。
