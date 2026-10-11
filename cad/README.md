@@ -1,31 +1,35 @@
-# 飞特 HD1910 机械图纸
+# 飞特 HD1910 机械资料
 
-图纸作者：**机械行者Robo**。由 [fanhao375/microduck-replica-cad](https://github.com/fanhao375/microduck-replica-cad) 发布，基于 Pollen Robotics Microduck 模型，采用 **CC BY-NC-SA 4.0**。转载保留署名，非商业使用，相同方式共享。
+2026-10-11 同步。以下下载均在本仓库或本仓库 Releases，无需转到其他作者仓库。
 
-## 完整 CAD 下载
+图纸作者：**机械行者Robo**；原发布维护：fanhao375；基于 Pollen Robotics Microduck 模型。采用 **CC BY-NC-SA 4.0**，保留署名、非商业使用、相同方式共享。见[许可全文](../licenses/LICENSE-CC-BY-NC-SA-4.0.txt)与[来源记录](../SOURCES.md)。本项目负责整理，不将上游图纸宣称为原创。
 
-本仓库 [CAD 飞特 v2.1 Release](https://github.com/FromAIToReality/OpenMicroDuck/releases/tag/cad-ft-v2.1) 中的附件是上游原包，未改变其内容：
+## 下载
 
-- [SolidWorks 全套](https://github.com/FromAIToReality/OpenMicroDuck/releases/download/cad-ft-v2.1/SolidWorks-FT2026-09-25.zip)：17 个装配体、43 个零件。
-- [STEP 改动件](https://github.com/FromAIToReality/OpenMicroDuck/releases/download/cad-ft-v2.1/STEP-changed-parts-FT-2026-09-25.zip)：10 个 STEP，**不是全套 STEP**。
-- [原作者 Release](https://github.com/fanhao375/microduck-replica-cad/releases/tag/v2.1)：备用下载和原始说明。
+| 资料 | 本仓库入口 | 版本说明 |
+|---|---|---|
+| 完整 SolidWorks | [全套 ZIP](https://github.com/FromAIToReality/OpenMicroDuck/releases/download/cad-ft-v2.1/SolidWorks-FT2026-09-25.zip) | 17 个装配体、43 个零件；包未变，已核对哈希 |
+| STEP 改动件 | [逐件下载](step/) · [11 件 ZIP](https://github.com/FromAIToReality/OpenMicroDuck/releases/download/cad-ft-v2.1/STEP-changed-parts-FT-2026-09-30.zip) | 2026-09-30，不是整机全套 STEP |
+| 拓竹打印工程 | [3MF](print/microduck-FT-BambuStudio-20260930.3mf) | 9 月 30 日文件原样导入 |
+| 装配说明 | [PDF](assembly/microduck装配安装说明书.pdf) | 21 页；移除末页推广二维码及关注提示，补充署名 |
+| 装配 BOM | [Excel](BOM/装配BOM-20260929-无外链.xlsx) | 去除购物外链、拼团推广，规格及历史价格保留 |
+| 组件及爆炸图 | [全部图片](components/) | 24 张 |
 
-SHA-256：
+## 使用边界
 
-```text
-59e3b7785490044bf4d639438dc31425b280f6984f0ebe26ac32f36f59c7a7a7  SolidWorks-FT2026-09-25.zip
-57dd4a2a191bedbf01a4916bc4df34bba6c175793b532ebecc7a1e1aed8c2ca0  STEP-changed-parts-FT-2026-09-25.zip
-```
+- 新 STEP 包新增面部 FT1 变体，适配瑞莎原版摄像头孔距；仍须核对实物。
+- SolidWorks 全套仍是 9 月 25 日版本，不能视为包含 9 月 30 日新增面部 STEP。
+- 读取当前 3MF 确认：**P2S、0.4 mm、0.2 mm 层高、两个 PLA 配置、6 个盘位**。不是本项目已验证的 PA6-CF / TPU 参数。
+- 预览直接提取自当前 3MF，不沿用上游 README 的旧五盘图。是否覆盖全部新版 CAD，尚未逐件验证。
+- 合体轮胎为轮滑变体 TPU 件，普通步行版不必增加打印；不要混用 XL330 与飞特配合件。
+- ZIP CRC 与文件哈希已检查，未在 SolidWorks 中重建全部装配体，未完成实机装配验证。
 
-下载哈希和 ZIP CRC 已核对；没有在 SolidWorks 内逐个重新构建装配体，不能承诺引用及装配全部验证完成。
+## 当前盘位预览
 
-## 打印与装配资料
+| 盘 1 | 盘 2 | 盘 3 |
+|---|---|---|
+| ![盘1](print/plate-1.png) | ![盘2](print/plate-2.png) | ![盘3](print/plate-3.png) |
+| 盘 4 | 盘 5 | 盘 6 |
+| ![盘4](print/plate-4.png) | ![盘5](print/plate-5.png) | ![盘6](print/plate-6.png) |
 
-- **[仓内装配安装说明书 PDF](assembly/microduck装配安装说明书.pdf)**：项目维护者于 2026-09-28 提供的文件，正文原样保存，首页有封面入口。SHA-256：`785fde2ee9ab4dd99cec2c198da84861f2833b1f93f61725634549a36e9cfd10`。它与先前归档的上游 PDF 字节不同，未将两者宣称为同一版本；内容差异未逐页比对。
-
-- [仓内上游 3MF](print/upstream-FT-P2S-PLA-20260915.3mf)：原版 P2S、PLA、2026-09-15 工程，不能视为 v2.1 全部 CAD 更新后的工程，更不能直接当作 PA6-CF/TPU 预设。
-- [装配 BOM](https://github.com/fanhao375/microduck-replica-cad/tree/749fcefb404a0750777d7cc8badfe30700df2f9b/BOM)。
-- [安装说明书](https://github.com/fanhao375/microduck-replica-cad/tree/749fcefb404a0750777d7cc8badfe30700df2f9b/安装说明书)。
-- [组件图和爆炸图](https://github.com/fanhao375/microduck-replica-cad/tree/749fcefb404a0750777d7cc8badfe30700df2f9b/组件图)。
-
-v2.1 将轮辋和轮胎合成 TPU 合体轮胎，属于轮滑变体，普通步行版本不必因此增加打印件。不要把 XL330 的配合件和飞特版混装。
+上游固定提交：`c9a533bc1206d8899950a5d466965a992d7e052a`。见[同步清单与哈希](../provenance/cad-refresh-20261011.json)。旧版由 Git 历史及本地备份保留，当前下载入口使用新版。

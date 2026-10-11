@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-11",
+  "source": "fanhao375/microduck-replica-cad",
+  "commit": "c9a533bc1206d8899950a5d466965a992d7e052a",
+  "author": "机械行者Robo",
+  "license": "CC BY-NC-SA 4.0",
+  "changes": [
+    "PDF final-page promotional QR images and follow prompt removed; attribution retained",
+    "BOM external shopping links and group-purchase promotion removed",
+    "New upstream 3MF imported unchanged; six plates, PLA presets",
+    "11 STEP parts imported; full SolidWorks archive unchanged",
+    "Old homepage QR removed; previous files retained in local backup and git history"
+  ],
+  "files": [
+    {
+      "path": "cad/BOM/装配BOM-20260929-无外链.xlsx",
+      "sha256": "fd2ec8017826c2e6112bf32a205fb1712b0ef315c2d1289dcba6999067d562cd",
+      "bytes": 10693
+    },
+    {
+      "path": "cad/README.md",
+      "sha256": "05a853e0e879541b4345510dfe090e6a54ac5998bf4c6b0e57892e243a7f5600",
+      "bytes": 2622
+    },
+    {
+      "path": "cad/assembly/assembly-cover.png",
+      "sha256": "5062952463112cca601ce1e5b814a7bf9db5ccc09e5b525c84d18fea49b19ea0",
+      "bytes": 119373
+    },
+    {
+      "path": "cad/assembly/microduck装配安装说明书.pdf",
+      "sha256": "cd3c858ac6fa6bf5645da2418d93b0ee62f9f51efc4e68d95f40f8463ef8a332",
+      "bytes": 2129427
+    },
+    {
+      "path": "cad/components/00-microduck装配体.png",
+      "sha256": "6579b49f5179555e67ff792be4911357d3e66640aaa5532a2d97a03bf28fda76",
+      "bytes": 150522
+    },
+    {
+      "path": "cad/components/00-microduck装配体2.png",
+      "sha256": "a216fe32420ebe287e3584945a9e9cb6b8b36fe976230f9558d2297e8ce450cf",
+      "bytes": 109273
+    },
+    {
+      "path": "cad/components/00-microduck装配体爆炸图1.png",
+      "sha256": "40d9c0156e62a75cfeaa4308953434ee332a08b1798f84a14ba828176670b21d",
+      "bytes": 121440
+    },
+    {
+      "path": "cad/components/00-microduck装配体爆炸图2.png",
+      "sha256": "11ed75c7d7414531e0facd930558fe270e764493ad650fe0d841fa4578ce9970",
+      "bytes": 148659
+    },
+    {
+      "path": "cad/components/00-microduck装配体爆炸图3.png",
+      "sha256": "03f0433b881b83abc89e94e5d2fca8d2e9046c48ea64473017414789e6541309",
+      "bytes": 257028
+    },
+    {
+      "path": "cad/components/01-躯干主体-爆炸图.png",
+      "sha256": "ee058fd67a121dfddedba327a29541aef43777237dcde4f7eff22502e8a103aa",
+      "bytes": 128617
+    },
+    {
+      "path": "cad/components/01-躯干主体.png",
+      "sha256": "3eb938d4f3db6751cdea3bac2c1203cacbe7c931fd0a08707f9ecac93f18f135",
+      "bytes": 79910
+    },
+    {
+      "path": "cad/components/02-左髋.png",
+      "sha256": "851e4c28b09369a598ab873995d52959a51f48dd8576bcb841ad5aae463b50ec",
+      "bytes": 159522
+    },
+    {
+      "path": "cad/components/03-左髋roll.png",
+      "sha256": "6a4ce9ab3be0c975b5eb19fe314aaebd81dd157a3551dacf0492c074ffd675b1",
+      "bytes": 143659
+    },
+    {
+      "path": "cad/components/04-左大腿.png",
+      "sha256": "ce1b9ed04b6bf744ed4766d1821c1aa0992682487a45c59a317feb4c292c86ce",
+      "bytes": 136521
+    },
+    {
+      "path": "cad/components/05-左小腿.png",
+      "sha256": "a24b5580583e93ae3aa57946e9ee9d6ade64d45786debeeb679d213e9108744a",
+      "bytes": 108626
+    },
+    {
+      "path": "cad/components/06-左踝脚.png",
+      "sha256": "4c3fdf75c942d6bb77b1baf5593d6e6f60c44a149fd56b33a327aa031a3909f4",
+      "bytes": 88345
+    },
+    {
+      "path": "cad/components/07-颈根.png",
+      "sha256": "626c596c15fb26a815fdd27251d4ffa9565663b90fd87488103d7bd4e64de1f2",
+      "bytes": 117637
+    },
+    {
+      "path": "cad/components/08-颈俯仰.png",
+      "sha256": "9b0094da2107035dfd6f5e3880270cb345e5b146188342945bd935b90ac67072",
+      "bytes": 123632
+    },
+    {
+      "path": "cad/components/09-头yawroll.png",
+      "sha256": "87410321b2145dc91a0f35c300c5f6e5b123f1169d395cb60ec4d5e127841fb2",
+      "bytes": 170977
+    },
+    {
+      "path": "cad/components/10-头部总成.png",
+      "sha256": "fb0e7f7abddfe5e7562903a95fdc3c4149258292b1e297122e0d3fd202dfe7a3",
+      "bytes": 216900
+    },
+    {
+      "path": "cad/components/10-头部总成爆炸1.png",
+      "sha256": "0668b4e26301e81cde953a9b44e44178e0def90325a6ccf006092210bb176317",
+      "bytes": 78284
+    },
+    {
+      "path": "cad/components/10-头部总成爆炸2.png",
+      "sha256": "ae264ef0babac59f9786bd55c0b1fe3054990f0d0a3638b17910c1957e17081b",
+      "bytes": 147463
+    },
+    {
+      "path": "cad/components/11-右髋.png",
+      "sha256": "4d9c3724d7ca7e593980ddc78467346fd5e5c96949716b3ba703927236e81636",
+      "bytes": 291804
+    },
+    {
+      "path": "cad/components/12-右髋.png",
+      "sha256": "c65afe7f83c851a65a0394cd0c5b93c6b74940f302f312168190ea097c8a4325",
+      "bytes": 111613
+    },
+    {
+      "path": "cad/components/13-右大腿.png",
+      "sha256": "12951e7b3a0b08d76067db773521bc9e9621d0dc17967e93a5e819866c67ce0c",
+      "bytes": 229017
+    },
+    {
+      "path": "cad/components/14-右小腿.png",
+      "sha256": "a69cf851e84858d8f4fe0325bff822503d31263264137d20cca7c0bb7ce4995b",
+      "bytes": 98578
+    },
+    {
+      "path": "cad/components/15-右踝脚.png",
+      "sha256": "7d1b48295ff51618260d85f1e6055e0749d7f181a3bc4a47cfb9a76383606725",
+      "bytes": 84515
+    },
+    {
+      "path": "cad/components/零件明预览.png",
+      "sha256": "6085c4949d0773f42024870967243320d191a8994eb7b800cd565259a094e49a",
+      "bytes": 104317
+    },
+    {
+      "path": "cad/print/microduck-FT-BambuStudio-20260930.3mf",
+      "sha256": "92e99aa3bb26e3ca6d1a51e1315117769f66b22b7a508e30a0d4a25f57f75661",
+      "bytes": 5236025
+    },
+    {
+      "path": "cad/print/plate-1.png",
+      "sha256": "d05a385ddd2fe59b41af18f1859d8bbc5a1f5232a6573d63230b2e1780cd82c8",
+      "bytes": 36395
+    },
+    {
+      "path": "cad/print/plate-2.png",
+      "sha256": "a6b2443d2c0a1d9915c2bde1f5168c5e47990acd6bc6c3183f33a4f4443b5564",
+      "bytes": 18892
+    },
+    {
+      "path": "cad/print/plate-3.png",
+      "sha256": "a130875bf1075f1899fe214df597ce6f4d43149582028331497c827b6c7d3a85",
+      "bytes": 26698
+    },
+    {
+      "path": "cad/print/plate-4.png",
+      "sha256": "e732a2af29c09657f5b30fe4aba154f17bec2a52dc06b94a03134245506fe33a",
+      "bytes": 26076
+    },
+    {
+      "path": "cad/print/plate-5.png",
+      "sha256": "b78fa89fd1cbdc3bd45a0d0e2087db3130d027dba3ed305c654ae138eb7c7b29",
+      "bytes": 9064
+    },
+    {
+      "path": "cad/print/plate-6.png",
+      "sha256": "294a8090bb2bfe56e295296bfe81aff1c86db8f716ffe7a480a12630961e2599",
+      "bytes": 21929
+    },
+    {
+      "path": "cad/step/01-upper_leg_rigidity_plate_上腿加固板-FT.STEP",
+      "sha256": "e95d1615675b68ae22d3b4a618bf5c4329e69b7a713d8dd970d5728e3e7548f1",
+      "bytes": 124309
+    },
+    {
+      "path": "cad/step/99-yaw_roll_motion_偏航横滚运动-F.STEP",
+      "sha256": "2b6a5bedc7fa86f5d64950b9841f5e5547967717b29f31eea46983fe9b563af5",
+      "bytes": 203456
+    },
+    {
+      "path": "cad/step/ankle_left_脚踝左-FT.STEP",
+      "sha256": "10aacd18a54fa89e080dd4907d5a0b8c5e94e7036db5c78b3de3a6a8f1b25f5f",
+      "bytes": 210766
+    },
+    {
+      "path": "cad/step/ankle_right脚踝右1-FT.STEP",
+      "sha256": "1086929ae9b29693eba3e0357695c2ecf2f935970006a72c8b26fedc5fc539d3",
+      "bytes": 186944
+    },
+    {
+      "path": "cad/step/bearing_roll_轴承滚轮-FT.STEP",
+      "sha256": "a0d40d62979f19a67c298cd50c5c56e93d2d3cd4964395fdc0584ad4d73b11fa",
+      "bytes": 64212
+    },
+    {
+      "path": "cad/step/face_part_面部零件-FT1适配瑞莎原版摄像头 改了孔距.STEP",
+      "sha256": "75a318276b6bcee3d5ded47cf06c996df0aff827a66e45bd31111296dc47668e",
+      "bytes": 5028471
+    },
+    {
+      "path": "cad/step/left_upper_leg_左上腿-FT.STEP",
+      "sha256": "261b51c92c9ef6136118f3e83c79ade0da5aaba0fccf1e1347a1b4f874c40cd9",
+      "bytes": 10085029
+    },
+    {
+      "path": "cad/step/leg_腿部-FT.STEP",
+      "sha256": "cc015c211ac1a6f32f65dce1dbae4b90dc29f20aae2f337512d1476962943e42",
+      "bytes": 11802940
+    },
+    {
+      "path": "cad/step/right_upper_leg_右上腿-FT.STEP",
+      "sha256": "a7593bb7d9a06078fc89b431565a456652cee58af02ae728c4ba4d16aa6a2f0c",
+      "bytes": 10070651
+    },
+    {
+      "path": "cad/step/yaw2roll_偏航转横滚-FT.STEP",
+      "sha256": "a689988425cfb5dd6748a3abfc10239b3f46490bdbf84051deb0b99c1695cdd8",
+      "bytes": 12833554
+    },
+    {
+      "path": "cad/step/合体轮胎.STEP",
+      "sha256": "b59f3917d44f48e65b63bfcc9ebfb9a2c5bf943efa47945d7967838e28f8522f",
+      "bytes": 36453
+    }
+  ]
+}
