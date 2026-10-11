@@ -1,0 +1,51 @@
+[
+  {
+    "version": "v1.0",
+    "name": "SolidWorks.zip",
+    "bytes": 341551193,
+    "sha256": "b3222c189a911d6792f0d98c36e49464475eeae884edc7c1afa98c42d2178a29",
+    "url": "https://github.com/FromAIToReality/OpenMicroDuck/releases/download/cad-xl330-v1.0/SolidWorks.zip"
+  },
+  {
+    "version": "v1.1",
+    "name": "SolidWorks-XL330-v1.1.zip",
+    "bytes": 332776144,
+    "sha256": "51bf6f6d4c50e6f8469751102d43520ccf3d69184c30166b5439bdbbd9749a0c",
+    "url": "https://github.com/FromAIToReality/OpenMicroDuck/releases/download/cad-xl330-v1.1/SolidWorks-XL330-v1.1.zip"
+  },
+  {
+    "version": "v2.0",
+    "name": "STEP-changed-parts-FT.zip",
+    "bytes": 14986757,
+    "sha256": "cf137cd3c20b1ee115c5ba71993b42a993c9da337551a7f691d77870f5a61b0a",
+    "url": "https://github.com/FromAIToReality/OpenMicroDuck/releases/download/cad-ft-v2.0/STEP-changed-parts-FT.zip"
+  },
+  {
+    "version": "v2.0",
+    "name": "SolidWorks-FT.zip",
+    "bytes": 373833413,
+    "sha256": "13764d844acec914b9e90fbf18f611d3d1c60b845a160710e0d694701cdba9b1",
+    "url": "https://github.com/FromAIToReality/OpenMicroDuck/releases/download/cad-ft-v2.0/SolidWorks-FT.zip"
+  },
+  {
+    "version": "v2.1",
+    "name": "STEP-changed-parts-FT-2026-09-25.zip",
+    "bytes": 10320910,
+    "sha256": "57dd4a2a191bedbf01a4916bc4df34bba6c175793b532ebecc7a1e1aed8c2ca0",
+    "url": "https://github.com/FromAIToReality/OpenMicroDuck/releases/download/cad-ft-v2.1/STEP-changed-parts-FT-2026-09-25.zip"
+  },
+  {
+    "version": "v2.1",
+    "name": "STEP-changed-parts-FT-2026-09-30.zip",
+    "bytes": 11316379,
+    "sha256": "a949bd0d7a42855afe585243ed4952bfaf7a0c410dfe22dc82eaa43a5dafef22",
+    "url": "https://github.com/FromAIToReality/OpenMicroDuck/releases/download/cad-ft-v2.1/STEP-changed-parts-FT-2026-09-30.zip"
+  },
+  {
+    "version": "v2.1",
+    "name": "SolidWorks-FT2026-09-25.zip",
+    "bytes": 343464395,
+    "sha256": "59e3b7785490044bf4d639438dc31425b280f6984f0ebe26ac32f36f59c7a7a7",
+    "url": "https://github.com/FromAIToReality/OpenMicroDuck/releases/download/cad-ft-v2.1/SolidWorks-FT2026-09-25.zip"
+  }
+]

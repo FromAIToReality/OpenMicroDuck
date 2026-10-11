@@ -14,6 +14,8 @@
 
 2026-09-28 补充导入同一固定版本的技术参考文档、装配/接线图片与辅助工具；来源、原始及发布哈希见 [补充清单](provenance/reference-import-manifest.json)。正文仍为上游作者记录，新增提示区分本项目和上游验证范围。未导入的独立 PCB 设计文件及大型系统镜像保留上游下载入口。
 
+2026-10-11 本地整理版补充：CAD 页面合并用户整理的完整技术说明，修复图片和文档路径；BOM 使用用户改名版本并清除推广跳转。全部 7 个 CAD Release 附件已在本仓库归档，包含历史版本，见 `cad/releases/manifest.json`。发布文件清单见 `provenance/cad-organized-20261011.json`。
+
 ## 参考但未导入
 
 2026-10-11 CAD 更新：去除 PDF 末页推广二维码、BOM 购物外链及拼团文字，保留技术内容与署名。CAD 下载入口均为仓内文件或本仓库 Releases。旧版可由 Git 历史恢复，哈希见 `provenance/cad-refresh-20261011.json`。来源标识：`https://github.com/fanhao375/microduck-replica-cad`，仅作署名追溯。
